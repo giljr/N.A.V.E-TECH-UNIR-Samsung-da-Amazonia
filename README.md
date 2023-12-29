@@ -73,3 +73,10 @@ Project # 16 (TODO)
 
 Project # 17 (TODO)
 
+Project # 18 [18_UNIR_doorBell_receive_system](UNIR_SAMSUNG/navetech.unir.br/18_UNIR_doorBell_receive_system.ino/) This sketch focuses on wireless communication utilizing XBee Radios Series 1. 
+      The system comprises two Arduino units, each equipped with an XBee shield and a radio module. 
+      One Arduino is positioned outside your home or apartment, while the other is located indoors. 
+      Upon pressing a button on the outdoor unit, the indoor board triggers the doorbell. 
+      The subsequent code (19) is an integral component of this project.
+
+Project # 19 [19_UNIR_doorBell_transmit_system](UNIR_SAMSUNG/navetech.unir.br/19_UNIR_doorBell_transmit_system.ino/) Read above. The previous code (18) is an integral component of this project.
