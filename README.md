@@ -1,26 +1,38 @@
 
-# N.A.V.E-TECH-UNIR-Samsung-da-Amazonia
-
+#  🏗 N.A.V.E-TECH-UNIR-Samsung-da-Amazonia
 
 N.A.V.E TECH UNIR Samsung Eletrônica da Amazônia LTDA
-In Porto Velho - RO - Brazil, Course from November 2023 to April 2024
+Location: Porto Velho - RO - Brazil
+Course Duration: November 2023 to April 2024
 
-It was developed during the N.A.V.E TECH UNIR Samsung Eletrônica da Amazônia LTDA
-      In Porto Velho - RO - Brazil, Course from November 2023 to April 2024. 
-     
-The project was supervised by Professor Dr. Ciro José Egoavil Montero (https://www.linkedin.com/in/ciro-j-egoavil-210b7a44/?originalSubdomain=br), 
-      an Associate Professor III in Electrical Engineering at the Federal University of Rondônia (UNIR).
+This project was undertaken as part of the N.A.V.E TECH UNIR Samsung Eletrônica da Amazônia LTDA course in Porto Velho, RO, Brazil, spanning from November 2023 to April 2024.
 
-       Local: Federal University of Rondônia - Campus BR
-    (Universidade Federal de Rondônia - Campus Porto Velho)
+The project received supervision from Professors 🎖[Dr. Ciro José Egoavil Montero](https://www.linkedin.com/in/ciro-j-egoavil-210b7a44/?originalSubdomain=br), an [Associate Professor III in Electrical Engineering](https://ciroegoavil.unir.br/homepage) at the Federal University of Rondônia (UNIR).🎖 [Dr. Antônio Lemos Régis](https://www.linkedin.com/in/ant%C3%B4nio-lemos-r%C3%A9gis-0774ba24/?originalSubdomain=br),🎖 [Igor Correa de Oliveira](https://dacc.unir.br/pagina/exibir/2487), an IT Management Specialist, 🎖 Júlio César Ribeiro,🎖 [Dr.Marcello Batista Ribeiro](https://www.linkedin.com/in/marcello-ribeiro-b3807a43/), an Esp. in Computer Science Knowledge Systems 🎖 Dr.Raimundo Josedi Ramos Veloso, 🎖 [Pos-Dr. Sandra Garcia do Espírito Santo Aguiar](https://www.linkedin.com/in/sandradacruzgarcia/?originalSubdomain=br), a Post-doctorate at the Higher Institute of Economics and Management of the University of Lisbon (ISEG/UL) 🎖  Dr. Valmir Batista Prestes de Souza, 🎖 Vasco Pinto da Silva Filho, 🎖 Dr. Viviane Barrozo da Silva. 
+
+Location: Federal University of Rondônia - Campus BR
+(Universidade Federal de Rondônia - Campus Porto Velho)
      
 GoogleMaps: [Engenharia Elétrica da Fundação Universidade Federal de Rondônia](https://www.google.com/maps/place/Federal+University+of+Rond%C3%B4nia+-+Campus+BR/@-8.8355618,-63.9389209,17z/data=!3m1!4b1!4m6!3m5!1s0x92325e0bbe3744f3:0x63a140cb3a09ac24!8m2!3d-8.8355618!4d-63.9389209!16s%2Fg%2F1ptvt8tv6?entry=ttu):
       log: -8.83533916802742, lat: -63.93816988152927      
-   homePage : (https://navetech.unir.br/)  EDITAL Nº 01/2023/NAVE-Tech-RO/UNIR
-                 (https://ciroegoavil.unir.br/homepage) 
+   homePage :     (https://navetech.unir.br/) 
+   Official Pub:  EDITAL Nº 01/2023/NAVE-Tech-RO/UNIR
+````
+Project Details:
 
+Technology Hub:
+	Academic Department of Computer Science
+	Technology Training and Capacity Building Project at the Federal University of Rondônia
 
-## Lessons Learned
+Execution:
+	Federal University of Rondônia – UNIR
+	Technology Hub – NT
+	Academic Department of Computer Science – DACC
+	Technology Training and Capacity Building Project at the Federal University of Rondônia (NaveTech UNIR – 2023)
+````                
+
+📰 [Trail Schedule](docs/Execucao_das_Trilhas___Roteiro__Versao_5__1322525210.pdf/)
+
+## 🎓 Lessons Learned 
 Here's a brief description:
 
 [TinkerCAD](https://www.tinkercad.com/) Simulator:
@@ -33,50 +45,45 @@ Electronics Course:
 The electronics course covers the fundamental principles of electronics, including topics such as circuit analysis, electronic components, digital and analog electronics, and the use of tools like oscilloscopes and multimeters. Such a course may also involve hands-on projects and experiments to apply theoretical knowledge in practical situations.
 
 
-## Roadmap
+## 🗺️ Roadmap 
 
-Project # 01 - [01 UNIR - Blinking 8 LEDs](https://www.tinkercad.com/things/fYhatzkBG4p-01-unir-blinking-8-leds) - This is The Hello World Project. It simply blinks 8 LEDs at variable speeds.
+[Project # 01](UNIR_SAMSUNG/navetech.unir.br/01_UNIR_Blinking_8_LEDs.ino/) - [01 UNIR - Blinking 8 LEDs](https://www.tinkercad.com/things/fYhatzkBG4p-01-unir-blinking-8-leds) - This is The Hello World Project. It simply blinks 8 LEDs at variable speeds. SIMULATION - November 23, 2023.
 
-Project # 02 - [02 UNIR - LCD intro](https://www.tinkercad.com/things/iMBcjtxUw8Y-02-unir-lcd-intro) - This simply initializes the LCD, displays a splash screen, and counts every 1 second on the second line.
+[Project # 02](UNIR_SAMSUNG/navetech.unir.br/02_UNIR_LCD_intro.ino/) - [02 UNIR - LCD intro](https://www.tinkercad.com/things/iMBcjtxUw8Y-02-unir-lcd-intro) - This simply initializes the LCD, displays a splash screen, and counts every 1 second on the second line.  SIMULATION - 
 
-Project # 03 - [03 UNIR - LCD menu](https://www.tinkercad.com/things/aNrWzjOpfV9-03-unir-lcd-menu-) - This project simply initializes the LCD and simulates a menu. Part I.
+[Project # 03](UNIR_SAMSUNG/navetech.unir.br/) - [03 UNIR - LCD menu](https://www.tinkercad.com/things/aNrWzjOpfV9-03-unir-lcd-menu-) - This project simply initializes the LCD and simulates a menu. Part I. SIMULATION - December 03, 2023.
 
 
-Project # 04 - [04 UNIR - LCD Menu PLUS Button](https://www.tinkercad.com/things/hCIPRuBCSEj-04-unir-lcd-menu-plus-button-) -  This project simply initializes the LCD and simulates a menu.  Part II.
+[Project # 04](UNIR_SAMSUNG/navetech.unir.br/04_UNIR_LCD_Menu_PLUS_Button.ino/) - [04 UNIR - LCD Menu PLUS Button](https://www.tinkercad.com/things/hCIPRuBCSEj-04-unir-lcd-menu-plus-button-) -  This project simply initializes the LCD and simulates a menu.  Part II. SIMULATION -
 
-Project # 05 - [05 UNIR - LCD menu Ultimate Version](https://www.tinkercad.com/things/gL5unE1WIcH-05-unir-lcd-menu-ultimate-version) - This project explains how to create a three-level menu and control an RGB LED:). Part III.
+[Project # 05](UNIR_SAMSUNG/navetech.unir.br/05_UNIR_LCD_menu_Ultimate_Version.ino/) - [05 UNIR - LCD menu Ultimate Version](https://www.tinkercad.com/things/gL5unE1WIcH-05-unir-lcd-menu-ultimate-version) - This project explains how to create a three-level menu and control an RGB LED:). Part III. SIMULATION -
 
-Project # 06 - [06 UNIR - Roll A Single Die](https://www.tinkercad.com/things/0fnAGGkzqpq-06-unir-roll-a-single-die) - This project involves interacting with a die; A Single Die Rolls freely;  each time a user clicks the button, the die rolls randomly.
+[Project # 06](UNIR_SAMSUNG/navetech.unir.br/06_UNIR_Roll_A_Single_Die.ino/) - [06 UNIR - Roll A Single Die](https://www.tinkercad.com/things/0fnAGGkzqpq-06-unir-roll-a-single-die) - This project involves interacting with a die; A Single Die Rolls freely;  each time a user clicks the button, the die rolls randomly. SIMULATION - December 05, 2023.
  
-Project # 07 - [07 UNIR - LCD menu Ultimate Version](https://www.tinkercad.com/things/kl6VqxzIb4Z-07-unir-lcd-menu-ultimate-version) -  First Project : SNOWFLAKE - Presentation: [CANVA slides](https://www.canva.com/design/DAF1mXAJyeE/Iv0X65QcByHk04a267UFZA/edit?utm_content=DAF1mXAJyeE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-   Date:   6 Dez 2023 
+[Project # 07](UNIR_SAMSUNG/navetech.unir.br/07_UNIR_LCD_menu_Ultimate_Version.ino/) - [07 UNIR - LCD menu Ultimate Version](https://www.tinkercad.com/things/kl6VqxzIb4Z-07-unir-lcd-menu-ultimate-version) -  First Project : SNOWFLAKE - Presentation: [CANVA slides](https://www.canva.com/design/DAF1mXAJyeE/Iv0X65QcByHk04a267UFZA/edit?utm_content=DAF1mXAJyeE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) - PRESENTATION - December 06, 2023 
 
-Project # 08
+[Project # 08](UNIR_SAMSUNG/navetech.unir.br/)
 
-Project # 09 - [09 - UNIR - Simple Semaphore](https://www.tinkercad.com/things/7fPh07cRnWQ-09-unir-simple-semaphore) - The code defines a button pin (BUT) and an enumeration (but_state) for button states: active and disable. It uses INTERRUPTIONS.
+[Project # 09](UNIR_SAMSUNG/navetech.unir.br/) - [09 - UNIR - Simple Semaphore](https://www.tinkercad.com/things/7fPh07cRnWQ-09-unir-simple-semaphore) - The code defines a button pin (BUT) and an enumeration (but_state) for button states: active and disable. It uses INTERRUPTIONS. SIMULATION - December 07, 2023
 	 
 
-Project # 10 (TODO)
+[Project # 10](UNIR_SAMSUNG/navetech.unir.br/TODO)
 
-Project # 11 (TODO)
+[Project # 11](UNIR_SAMSUNG/navetech.unir.br/TODO)
 
-Project # 12 - [12 UNIR AutoWaterBot_Ultimate_Version_v0.2](https://www.tinkercad.com/things/ehEDYXSSMlV-12-unir-autowaterbotultimateversionv02) - 
-This code, developed by Jose Antonio, aims to evolve into a real irrigation project. This marks the first prototype.
+[Project # 12](UNIR_SAMSUNG/navetech.unir.br/) - [12 UNIR AutoWaterBot_Ultimate_Version_v0.2](https://www.tinkercad.com/things/ehEDYXSSMlV-12-unir-autowaterbotultimateversionv02) - 
+This code, developed by Jose Antonio, aims to evolve into a real irrigation project. This marks the first prototype. SIMULATION - December 26, 2023.
 
-Project # 13 [13 UNIR - AutoWaterBot Ultimate With ESP32 v0.1](https://www.tinkercad.com/things/ehEDYXSSMlV-12-unir-autowaterbotultimateversionv02) - Development Boards: HelTec WiFi Lora Automation(TM) ESP32(V2)- Series Dev boards OLED - This code intends to achieve the step-by-step implementation of the AutoWaterbot. PART I.
+[Project # 13](UNIR_SAMSUNG/navetech.unir.br/) [13 UNIR - AutoWaterBot Ultimate With ESP32 v0.1](https://www.tinkercad.com/things/ehEDYXSSMlV-12-unir-autowaterbotultimateversionv02) - Development Boards: HelTec WiFi Lora Automation(TM) ESP32(V2)- Series Dev boards OLED - This code intends to achieve the step-by-step implementation of the AutoWaterbot. PART I. SIMULATION - December 26, 2023.
 
-Project # 14 (TODO)
+[Project # 14](UNIR_SAMSUNG/navetech.unir.br/TODO)
 
-Project # 15 (TODO)
+[Project # 15](UNIR_SAMSUNG/navetech.unir.br/TODO)
 
-Project # 16 (TODO)
+[Project # 16](UNIR_SAMSUNG/navetech.unir.br/TODO)
 
-Project # 17 (TODO)
+[Project # 17](UNIR_SAMSUNG/navetech.unir.br/TODO)
 
-Project # 18 [18_UNIR_doorBell_receive_system](UNIR_SAMSUNG/navetech.unir.br/18_UNIR_doorBell_receive_system.ino/) This sketch focuses on wireless communication utilizing XBee Radios Series 1. 
-      The system comprises two Arduino units, each equipped with an XBee shield and a radio module. 
-      One Arduino is positioned outside your home or apartment, while the other is located indoors. 
-      Upon pressing a button on the outdoor unit, the indoor board triggers the doorbell. 
-      The subsequent code (19) is an integral component of this project.
+[Project # 18](UNIR_SAMSUNG/navetech.unir.br/18_UNIR_doorBell_receive_system.ino/) - [18_UNIR_doorBell_receive_system]() This sketch focuses on wireless communication utilizing XBee Radios Series 1. The system comprises two Arduino units, each equipped with an XBee shield and a radio module. One Arduino is positioned outside your home or apartment, while the other is located indoors. Upon pressing a button on the outdoor unit, the indoor board triggers the doorbell. The subsequent code (19) is an integral component of this project. PHYSICAL PROJECT - December 28, 2023.
 
-Project # 19 [19_UNIR_doorBell_transmit_system](UNIR_SAMSUNG/navetech.unir.br/19_UNIR_doorBell_transmit_system.ino/) Read above. The previous code (18) is an integral component of this project. See [media files](UNIR_SAMSUNG/navetech.unir.br/media/xbee/20231229_174952.jpg/) inside folder **media/xbee**.
+[Project # 19](UNIR_SAMSUNG/navetech.unir.br/19_UNIR_doorBell_transmit_system.ino/) - [19_UNIR_doorBell_transmit_system]() Read above. The previous code (18) is an integral component of this project. See [media files](UNIR_SAMSUNG/navetech.unir.br/media/xbee/20231229_174952.jpg/) inside folder **media/xbee**. PHYSICAL PROJECT - December 29, 2023.
