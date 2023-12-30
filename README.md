@@ -35,13 +35,18 @@ Execution:
 ## 🎓 Lessons Learned 
 Here's a brief description:
 
-[TinkerCAD](https://www.tinkercad.com/) Simulator:
+**[TinkerCAD](https://www.tinkercad.com/) Simulator**:
 TinkerCAD is an online platform that provides a virtual environment for designing and simulating electronic circuits. It allows users to experiment with various components, create circuits, and simulate their behavior before implementing them physically. This tool is particularly valuable for learning and prototyping without the need for physical components.
 
-Arduino Sockets:
+**Arduino Sockets**:
 Arduino Sketches are programs written in the Arduino programming language to control and interact with Arduino microcontrollers. These sketches define the behavior of the Arduino, instructing it on how to read inputs, process information, and control outputs.
 
-Electronics Course:
+**[ESP32](https://www.espressif.com/en/products/socs/esp32)**:
+A feature-rich MCU with integrated Wi-Fi and Bluetooth connectivity for a wide-range of applications
+
+**Heltec WiFi LoRa 32(V2) or [WiFi LoRa 32(V3)](https://heltec.org/project/wifi-lora-32-v3/)**: WiFi LoRa 32 is a classic IoT dev-board designed & produced by Heltec Automation.
+
+**Electronics Course**:
 The electronics course covers the fundamental principles of electronics, including topics such as circuit analysis, electronic components, digital and analog electronics, and the use of tools like oscilloscopes and multimeters. Such a course may also involve hands-on projects and experiments to apply theoretical knowledge in practical situations.
 
 
