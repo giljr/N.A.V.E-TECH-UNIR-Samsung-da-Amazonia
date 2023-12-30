@@ -51,7 +51,7 @@ The electronics course covers the fundamental principles of electronics, includi
 
 [Project # 02](UNIR_SAMSUNG/navetech.unir.br/02_UNIR_LCD_intro.ino/) - **[02 UNIR - LCD intro](https://www.tinkercad.com/things/iMBcjtxUw8Y-02-unir-lcd-intro)** - This simply initializes the LCD, displays a splash screen, and counts every 1 second on the second line.  SIMULATION - 
 
-[Project # 03](UNIR_SAMSUNG/navetech.unir.br/) - **[03 UNIR - LCD menu](https://www.tinkercad.com/things/aNrWzjOpfV9-03-unir-lcd-menu-)** - This project simply initializes the LCD and simulates a menu. Part I. SIMULATION - December 03, 2023.
+[Project # 03](UNIR_SAMSUNG/navetech.unir.br/03_UNIR_LCD_menu.ino/) - **[03 UNIR - LCD menu](https://www.tinkercad.com/things/aNrWzjOpfV9-03-unir-lcd-menu-)** - This project simply initializes the LCD and simulates a menu. Part I. SIMULATION - December 03, 2023.
 
 
 [Project # 04](UNIR_SAMSUNG/navetech.unir.br/04_UNIR_LCD_Menu_PLUS_Button.ino/) - **[04 UNIR - LCD Menu PLUS Button](https://www.tinkercad.com/things/hCIPRuBCSEj-04-unir-lcd-menu-plus-button-)** -  This project simply initializes the LCD and simulates a menu.  Part II. SIMULATION -  December 04, 2023.
@@ -62,18 +62,18 @@ The electronics course covers the fundamental principles of electronics, includi
  
 [Project # 07](UNIR_SAMSUNG/navetech.unir.br/07_UNIR_LCD_menu_Ultimate_Version.ino/) - **[07 UNIR - LCD menu Ultimate Version](https://www.tinkercad.com/things/kl6VqxzIb4Z-07-unir-lcd-menu-ultimate-version)** -  First Project : SNOWFLAKE - Presentation: [CANVA slides](https://www.canva.com/design/DAF1mXAJyeE/Iv0X65QcByHk04a267UFZA/edit?utm_content=DAF1mXAJyeE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) - PRESENTATION - December 06, 2023 
 
-[Project # 09](UNIR_SAMSUNG/navetech.unir.br/) - **[09 - UNIR - Simple Semaphore](https://www.tinkercad.com/things/7fPh07cRnWQ-09-unir-simple-semaphore)** - The code defines a button pin (BUT) and an enumeration (but_state) for button states: active and disable. It uses INTERRUPTIONS. SIMULATION - December 07, 2023
+[Project # 09](UNIR_SAMSUNG/navetech.unir.br/09_UNIR_simple_semaphore.ino/) - **[09 - UNIR - Simple Semaphore](https://www.tinkercad.com/things/7fPh07cRnWQ-09-unir-simple-semaphore)** - The code defines a button pin (BUT) and an enumeration (but_state) for button states: active and disable. It uses INTERRUPTIONS. SIMULATION - December 07, 2023
 
-[Project # 12](UNIR_SAMSUNG/navetech.unir.br/) - **[12 UNIR AutoWaterBot_Ultimate_Version_v0.2](https://www.tinkercad.com/things/ehEDYXSSMlV-12-unir-autowaterbotultimateversionv02)** - 
+[Project # 12](UNIR_SAMSUNG/navetech.unir.br/12_UNIR_AutoWaterBot_Ultimate_Version_v0.2.ino/) - **[12 UNIR AutoWaterBot_Ultimate_Version_v0.2](https://www.tinkercad.com/things/ehEDYXSSMlV-12-unir-autowaterbotultimateversionv02)** - 
 This code, developed by Jose Antonio, aims to evolve into a real irrigation project. This marks the first prototype. SIMULATION - December 26, 2023.
 
-[Project # 13](UNIR_SAMSUNG/navetech.unir.br/) - **[13 UNIR - AutoWaterBot Ultimate With ESP32 v0.1](https://www.tinkercad.com/things/ehEDYXSSMlV-12-unir-autowaterbotultimateversionv02)** - Development Boards: HelTec WiFi Lora Automation(TM) ESP32(V2)- Series Dev boards OLED - This code intends to achieve the step-by-step implementation of the AutoWaterbot. PART I. SIMULATION - December 26, 2023.
+[Project # 13](UNIR_SAMSUNG/navetech.unir.br/13_UNIR_AutoWaterBot_Ultimate_w_ESP32_v01.ino/) - **[13 UNIR - AutoWaterBot Ultimate With ESP32 v0.1](https://www.tinkercad.com/things/ehEDYXSSMlV-12-unir-autowaterbotultimateversionv02)** - Development Boards: HelTec WiFi Lora Automation(TM) ESP32(V2)- Series Dev boards OLED - This code intends to achieve the step-by-step implementation of the AutoWaterbot. PART I. SIMULATION - December 26, 2023.
 
-[Project # 14](UNIR_SAMSUNG/navetech.unir.br/14_UNIR_AutoWaterBot_Ultimate_Version_v0.2.ino/) - **14_UNIR_AutoWaterBot_Ultimate_Version_v0.2** - The purpose of this series of Arduino code is to establish a connection using LoRa communication through a LoRa radio. Using Heltec_ESP32 Board. PHYSICAL PROJECT - December 24, 2023.
+[Project # 14](UNIR_SAMSUNG/navetech.unir.br/14_UNIR_AutoWaterBot_Ultimate_Version_v0.2.ino/) - **14_UNIR_AutoWaterBot_Ultimate_Version_v0.2** - The purpose of this series of Arduino code is to establish a connection using LoRa communication through a LoRa radio. Using Heltec_ESP32 Board. PHYSICAL PROJECT - December 24, 2023. 
 
 [Project # 14a](UNIR_SAMSUNG/navetech.unir.br/14_UNIR_doorBell_ds3231_rtc.ino/) - **14_UNIR_doorBell_ds3231_rtc for Seeeduino Stalker v2.3** - This sketch marks the commencement of the code study for a doorbell system. We incorporate the DS3231, a real-time clock system, ideal for electronics projects. Here, we set the current time, date, and year. PHYSICAL PROJECT - December 30, 2023.
 
-[Project # 15](UNIR_SAMSUNG/navetech.unir.br/15_UNIR_AutoWaterBot_Ultimate_Version_v0.3_TimeNTP_ESP32WiFi.ino/)
+[Project # 15](UNIR_SAMSUNG/navetech.unir.br/15_UNIR_AutoWaterBot_Ultimate_Version_v0.3_TimeNTP_ESP32WiFi.ino/) - **15_UNIR_AutoWaterBot_Ultimate_Version_v0.3_TimeNTP_ESP32WiFi** - Example showing time sync to NTP time source.  This sketch uses the ESP32WiFi library - The project is designed to function as an automatic irrigation system - PHYSICAL PROJECT - December 24, 2023.
 
 [Project # 15a](UNIR_SAMSUNG/navetech.unir.br/15_UNIR_doorBell_battery_test.ino/) - **15_UNIR_doorBell_battery_test for Seeeduino Stalker v2.3** - This sketch tests the battery on the Seeeduino Stalker v2.3 board. PHYSICAL PROJECT - December 30, 2023.
 
