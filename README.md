@@ -54,7 +54,7 @@ The electronics course covers the fundamental principles of electronics, includi
 
 [Project # 01](UNIR_SAMSUNG/navetech.unir.br/01_UNIR_Blinking_8_LEDs.ino/) - **[01 UNIR - Blinking 8 LEDs](https://www.tinkercad.com/things/fYhatzkBG4p-01-unir-blinking-8-leds)** - This is The Hello World Project. It simply blinks 8 LEDs at variable speeds. SIMULATION - November 23, 2023.
 
-[Project # 02](UNIR_SAMSUNG/navetech.unir.br/02_UNIR_LCD_intro.ino/) - **[02 UNIR - LCD intro](https://www.tinkercad.com/things/iMBcjtxUw8Y-02-unir-lcd-intro)** - This simply initializes the LCD, displays a splash screen, and counts every 1 second on the second line.  SIMULATION - 
+[Project # 02](UNIR_SAMSUNG/navetech.unir.br/02_UNIR_LCD_intro.ino/) - **[02 UNIR - LCD intro](https://www.tinkercad.com/things/iMBcjtxUw8Y-02-unir-lcd-intro)** - This simply initializes the LCD, displays a splash screen, and counts every 1 second on the second line.  SIMULATION - December 03, 2023.
 
 [Project # 03](UNIR_SAMSUNG/navetech.unir.br/03_UNIR_LCD_menu.ino/) - **[03 UNIR - LCD menu](https://www.tinkercad.com/things/aNrWzjOpfV9-03-unir-lcd-menu-)** - This project simply initializes the LCD and simulates a menu. Part I. SIMULATION - December 03, 2023.
 
@@ -92,7 +92,7 @@ This code, developed by Jose Antonio, aims to evolve into a real irrigation proj
 
 [Project # 18](UNIR_SAMSUNG/navetech.unir.br/18_UNIR_doorBell_receive_system.ino/) - **[18_UNIR_doorBell_receive_system](https://medium.com/jungletronics/doorbell-xbee-radios-0dac24e6b83e)** This sketch focuses on wireless communication utilizing XBee Radios Series 1. The system comprises two Arduino units, each equipped with an XBee shield and a radio module. One Arduino is positioned outside your home or apartment, while the other is located indoors. Upon pressing a button on the outdoor unit, the indoor board triggers the doorbell. The subsequent code (19) is an integral component of this project. PHYSICAL PROJECT - December 28, 2023.
 
-[Project # 19](UNIR_SAMSUNG/navetech.unir.br/19_UNIR_doorBell_transmit_system.ino/) - **[19_UNIR_doorBell_transmit_system](https://medium.com/jungletronics/doorbell-xbee-radios-0dac24e6b83e)** Read above. The previous code (18) is an integral component of this project. See [media files](UNIR_SAMSUNG/navetech.unir.br/media/xbee/20231229_174952.jpg/) inside folder **media/xbee**. PHYSICAL PROJECT - December 29, 2023.
+[Project # 19](UNIR_SAMSUNG/navetech.unir.br/19_UNIR_doorBell_transmit_system.ino/) - **[19_UNIR_doorBell_transmit_system](https://medium.com/jungletronics/doorbell-xbee-radios-0dac24e6b83e)** Read above. The previous code (18) is an integral component of this project. See [media files](UNIR_SAMSUNG/navetech.unir.br/media/xbee/20231229_174952.jpg/) inside folder **media/xbee**. PHYSICAL PROJECT - December 30, 2023.
 
 [Project # 20](UNIR_SAMSUNG/navetech.unir.br/TODO)
 
