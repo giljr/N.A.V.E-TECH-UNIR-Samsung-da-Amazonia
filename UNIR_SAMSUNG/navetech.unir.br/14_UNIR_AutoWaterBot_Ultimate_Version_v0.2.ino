@@ -62,6 +62,7 @@ void setup() {
 }
 
 // the loop routine runs over and over again forever
+// Baud Rate = 115200; No Line Ending
 void loop() {
     if (Serial.available()) {
         cmd = Serial.readString();
