@@ -3,7 +3,7 @@
       Link: https://www.tinkercad.com/things/ehEDYXSSMlV-12-unir-autowaterbotultimateversionv02
 
    Objective:       
-      This sketch simply outputs the result of a BMP180 Sendor. Using Heltec_ESP32 Board.
+      This sketch simply outputs the result of a BMP180 Sensor. Using Heltec_ESP32 Board.
       shows how to use the BMP180MI library with the sensor connected using I2C.
       Please observe the results in the Serial terminal.
       It was developed during the N.A.V.E TECH UNIR Samsung Eletrônica da Amazônia LTDA
