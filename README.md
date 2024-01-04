@@ -92,9 +92,9 @@ This code, developed by Jose Antonio, aims to evolve into a real irrigation proj
 
 [Project # 18](UNIR_SAMSUNG/navetech.unir.br/18_UNIR_doorBell_receive_system.ino/) - **[18_UNIR_doorBell_receive_system](https://medium.com/jungletronics/doorbell-xbee-radios-0dac24e6b83e)** This sketch focuses on wireless communication utilizing XBee Radios Series 1. The system comprises two Arduino units, each equipped with an XBee shield and a radio module. One Arduino is positioned outside your home or apartment, while the other is located indoors. Upon pressing a button on the outdoor unit, the indoor board triggers the doorbell. The subsequent code (19) is an integral component of this project. PHYSICAL PROJECT - December 28, 2023.
 
-[Project # 19](UNIR_SAMSUNG/navetech.unir.br/19_UNIR_doorBell_transmit_system.ino/) - **[19_UNIR_doorBell_transmit_system](https://medium.com/jungletronics/doorbell-xbee-radios-0dac24e6b83e)** Read above. The previous code (18) is an integral component of this project. See [media files](UNIR_SAMSUNG/navetech.unir.br/media/xbee/20231229_174952.jpg/) inside folder **media/xbee**. PHYSICAL PROJECT - December 30, 2023.
+[Project # 19](UNIR_SAMSUNG/navetech.unir.br/19_UNIR_doorBell_transmit_system.ino/) - **[19_UNIR_doorBell_transmit_system](https://medium.com/jungletronics/doorbell-xbee-radios-0dac24e6b83e)** Read above. -NaveTECH & UNIR Series — Episode # 01 - The previous code (18) is an integral component of this project. See [media files](UNIR_SAMSUNG/navetech.unir.br/media/xbee/20231229_174952.jpg/) inside folder **media/xbee**. PHYSICAL PROJECT - December 30, 2023.
 
-[Project # 20](UNIR_SAMSUNG/navetech.unir.br/TODO)
+[Project # 20](UNIR_SAMSUNG/navetech.unir.br/20_UNIR_rain_detector_sensor_YL_83_v1.ino) - **[Rain Detector Sensor YL-83](https://medium.com/jungletronics/rain-detector-sensor-yl-83-0f540bddd4f2)** - It uses droplet detection instead of signal-level threshold — NaveTECH & UNIR Series — Episode # 02 - In this sketch, our goal is to create a simple rain detector – a basic version for now (V1). In the future, we plan to introduce a crucial feature that will enhance the accuracy of intensity calculations. Stay tuned for updates!
 
 [Project # 21](UNIR_SAMSUNG/navetech.unir.br/TODO)
 
