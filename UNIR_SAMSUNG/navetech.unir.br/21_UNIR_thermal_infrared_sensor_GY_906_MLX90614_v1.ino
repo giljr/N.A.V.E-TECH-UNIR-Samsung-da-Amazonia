@@ -1,7 +1,7 @@
 /*
 Project: 
       21_UNIR_thermal_infrared_sensor_GY_906_MLX90614_v1
-      Link: [TODO: link to jungletronics goes here!]
+      Link: https://medium.com/jungletronics/thermal-infrared-sensor-gy-906-f95710fe02d7
    Objective:       
       In this project we will be crafting Version 1 of a non-contact thermometer.
       This example reads from the MLX90614 and prints out ambient and object temperatures 
@@ -75,8 +75,8 @@ void loop()
   if (therm.read())              // On success, read() will return 1, on fail 0.
   {
                                  // Use the object() and ambient() functions to grab the object and ambient
-	                               // temperatures.
-	                               // They'll be floats, calculated out to the unit you set with setUnit().
+	                         // temperatures.
+	                         // They'll be floats, calculated out to the unit you set with setUnit().
     Serial.print("Object: " + String(therm.object(), 2));
     Serial.write('*');           // Degree Symbol
     Serial.println("C");
