@@ -1,7 +1,7 @@
 /*
 Project: 
       22_UNIR_liquid_water_level_sensor_v1
-      Link: [TODO: link to jungletronics goes here!]
+      Link: https://medium.com/jungletronics/liquid-water-level-sensor-5a9ddc21d27b
 
    Objective:       
       This mini float switch, notable for containing no mercury, 
