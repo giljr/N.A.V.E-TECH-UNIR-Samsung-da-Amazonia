@@ -76,7 +76,7 @@ it under the terms of the GNU General Public License v3 as published by
 //U8GLIB_DOGM128_2X u8g(13, 11, 10, 9);		// SPI Com: SCK = 13, MOSI = 11, CS = 10, A0 = 9
 //U8GLIB_ST7920_128X64_1X u8g(8, 9, 10, 11, 4, 5, 6, 7, 18, 17, 16);   // 8Bit Com: D0..D7: 8,9,10,11,4,5,6,7 en=18, di=17,rw=16
 //U8GLIB_ST7920_128X64_4X u8g(8, 9, 10, 11, 4, 5, 6, 7, 18, 17, 16);   // 8Bit Com: D0..D7: 8,9,10,11,4,5,6,7 en=18, di=17,rw=16
-U8GLIB_ST7920_128X64_1X u8g(6,5,4,7);	// SPI Com: SCK = en = 18, MOSI = rw = 16, CS = di = 17
+U8GLIB_ST7920_128X64_1X u8g(6,5,4,7);	// SPI Com: SCK = en = 6, MOSI = rw = 5, CS = di = 4, RST = rs = 7
 //U8GLIB_ST7920_128X64_4X u8g(18, 16, 17);	// SPI Com: SCK = en = 18, MOSI = rw = 16, CS = di = 17
 //U8GLIB_ST7920_192X32_1X u8g(8, 9, 10, 11, 4, 5, 6, 7, 18, 17, 16);   // 8Bit Com: D0..D7: 8,9,10,11,4,5,6,7 en=18, di=17,rw=16
 //U8GLIB_ST7920_192X32_4X u8g(8, 9, 10, 11, 4, 5, 6, 7, 18, 17, 16);   // 8Bit Com: D0..D7: 8,9,10,11,4,5,6,7 en=18, di=17,rw=16
@@ -133,7 +133,7 @@ U8GLIB_ST7920_128X64_1X u8g(6,5,4,7);	// SPI Com: SCK = en = 18, MOSI = rw = 16,
 void draw(void) {
                                             // graphic commands to redraw the complete screen should be placed here  
   u8g.setFont(u8g_font_unifont);
-                                            //u8g.setFont(u8g_font_osb21);
+ //u8g.setFont(u8g_font_osb21);
   u8g.drawStr( 0, 22, "Hello World!");
 }
 
@@ -143,7 +143,7 @@ void setup(void) {
     u8g.setRot180();
   
                                             // set SPI backup if required
-                                            //u8g.setHardwareBackup(u8g_backup_avr_spi);
+   //u8g.setHardwareBackup(u8g_backup_avr_spi);
 
                                             // assign default color value
   if ( u8g.getMode() == U8G_MODE_R3G3B2 ) {
@@ -161,7 +161,7 @@ void setup(void) {
 }
 
 void loop(void) {
-  // picture loop
+                                            // picture loop
   u8g.firstPage();  
   do {
     draw();
