@@ -1,6 +1,6 @@
 /*Project: 
       23_UNIR_Universal_8bit_Graphics_U8GLIB_ST7920_128X64_v1
-      Link: [TODO: link to jungletronics goes here!]
+      Link: https://medium.com/jungletronics/universal-8bit-graphics-u8gli-20607d14381d
    
    Objective:       
       "Hello World!" example code.
