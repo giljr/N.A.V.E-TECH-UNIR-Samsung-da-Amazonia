@@ -1,7 +1,7 @@
 /*
 Project: 
       20_UNIR_rain_detector_sensor_YL_83_v1
-      Link: [TODO: link to jungletronics goes here!]
+      Link: https://medium.com/jungletronics/rain-detector-sensor-yl-83-0f540bddd4f2
    Objective:       
       In this sketch, our goal is to create a simple rain detector – a basic version for now (V1).
       In the future, we plan to introduce a crucial feature that will enhance 
