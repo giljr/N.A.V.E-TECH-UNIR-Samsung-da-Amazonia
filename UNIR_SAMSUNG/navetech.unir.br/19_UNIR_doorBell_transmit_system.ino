@@ -2,6 +2,7 @@
 Project: 
       19_UNIR_doorBell_transmit_system
       Link: https://www.tinkercad.com/things/ehEDYXSSMlV-12-unir-autowaterbotultimateversionv02
+            https://medium.com/jungletronics/doorbell-xbee-radios-0dac24e6b83e
 
    Objective:       
       This sketch focuses on wireless communication utilizing XBee Radios Series 1. 
