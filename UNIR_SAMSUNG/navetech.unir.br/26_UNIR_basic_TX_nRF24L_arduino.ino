@@ -24,9 +24,15 @@
    
    Software:    Arduino IDE 2.2.1
                   
-   Connections:       
-
-
+      Connections: 
+               Arduino - Radio SPI - Wire Color
+                   7   -  CE       - Brown
+                   8   -  CSN      - White
+                  13   -  SCK      - Orange
+                  11   -  MOSI     - Yellow
+                  12   -  MISO     - Blue
+                   3   -  IRQ      - Red     
+                   
    output:      The radio transmits an integer that increments by one. 
 
    Based on: 
