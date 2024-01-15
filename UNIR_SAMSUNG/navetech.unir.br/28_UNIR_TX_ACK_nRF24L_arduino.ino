@@ -58,31 +58,17 @@ void setup()
 {
   Serial.begin(115200);
   _radio.init(1, 7, 8);                     // Set radio to Id = 1, along with its CE and CSN pins
-  attachInterrupt(1,radioInterrupt, FALLING);
 }
 
 void loop()
 {
   _data++;
   _radio.startSend(0, &_data, sizeof(_data));
+
+  if(_radio.hasAckData()){
+    uint8_t ackData;
+    _radio.readData(&ackData);
+    Serial.println(ackDAta);  
+  }  
   delay(1000);
-}  
-
-void radioInterrupt()
-{
-  uint8_t tx_ok, tx_fail, rx_ready;
-  _radio.whatHappened(tx_ok, tx_fail, rx_ready);
-  
-    if(_radio.hasAckData()){
-      uint8_t ackData;
-      _radio.readData(&ackData);
-      Serial.println(ackDAta);
-
-   }
-  }
-
-  if(tx_fail){
-    Serial.println("Fail");
-  }
-  
 }
