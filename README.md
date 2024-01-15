@@ -104,7 +104,7 @@ This code, developed by Jose Antonio, aims to evolve into a real irrigation proj
 
 [Project # 24](UNIR_SAMSUNG/navetech.unir.br/24_UNIR_arduinoISP.ino) - **Arduino as ISP** - This sketch turns the Arduino into a AVRISP. ATtiny85 can be programmed with Arduino as ISP. Tutorial: [Programming an ATtiny w/ Arduino 1.6 (or 1.0)](https://highlowtech.org/?p=1695) - PROJECT ATTINY85 - January 13, 2024.
       
-[Project # 25](UNIR_SAMSUNG/navetech.unir.br/25_UNIR_blinking_led_attiny85.ino) - **Blinking LED ATtiny85** - This sketch is to upload to ATtiny85. It will blink an LED on Pin Zero. See previous project #24 - PROJECT ATTINY85 - January 13, 2024.
+[Project # 25](UNIR_SAMSUNG/navetech.unir.br/25_UNIR_blinking_led_attiny85.ino) - **[Blinking LED ATtiny85](https://medium.com/jungletronics/attiny85-easy-flashing-through-arduino-b5f896c48189)** - This sketch is to upload to ATtiny85. It will blink an LED on Pin Zero. See [this](https://medium.com/jungletronics/fast-rainbow-circuit-f0dddd5ee28) project too - PROJECT ATTINY85 - January 13, 2024.
 
 [Project # 26](UNIR_SAMSUNG/navetech.unir.br/26_UNIR_basic_TX_nRF24L_arduino.ino) - **Basic Transmitter nRF24L Radio** - This is a component of my study on nRF24L0 radios - Tutorial: from dparson [NRFLite Arduino nRF24L01 library](https://youtu.be/tWEgvS7Sj-8?si=zdPP_o1gHMPNGU54) - PROJECT RADIO NRF24L0 - January 14, 2024.
 
