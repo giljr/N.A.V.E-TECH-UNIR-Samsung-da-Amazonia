@@ -65,10 +65,12 @@ void loop()
   _data++;
   _radio.startSend(0, &_data, sizeof(_data));
 
-  if(_radio.hasAckData()){
+  if (_radio.hasAckData())
+  {
     uint8_t ackData;
     _radio.readData(&ackData);
-    Serial.println(ackDAta);  
+    Serial.println(ackData);  
   }  
   delay(1000);
 }
+
