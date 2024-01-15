@@ -102,8 +102,34 @@ This code, developed by Jose Antonio, aims to evolve into a real irrigation proj
 
 [Project # 23](UNIR_SAMSUNG/navetech.unir.br/_UNIR_Universal_8bit_Graphics_U8GLIB_ST79_128X64_v1.ino.ino) - **[Universal 8bit Graphics — U8GLI](https://medium.com/jungletronics/universal-8bit-graphics-u8gli-20607d14381d)** - Giant LCD — BST7920_128X64 — Hello World! — NaveTECH & UNIR Series — Episode # 05 -  See [media files](UNIR_SAMSUNG/navetech.unir.br/media/Lcd_st7920_128x64/) inside folder **media/tank_level/Lcd_st7920_128x64/** - PHYSICAL PROJECT - January 5, 2024.
 
-[Project # 24](UNIR_SAMSUNG/navetech.unir.br/TODO)
+[Project # 24](UNIR_SAMSUNG/navetech.unir.br/24_UNIR_arduinoISP.ino) - **Arduino as ISP** - This sketch turns the Arduino into a AVRISP. ATtiny85 can be programmed with Arduino as ISP. Tutorial: [Programming an ATtiny w/ Arduino 1.6 (or 1.0)](https://highlowtech.org/?p=1695) - PROJECT ATTINY85 - January 13, 2024.
+      
+[Project # 25](UNIR_SAMSUNG/navetech.unir.br/25_UNIR_blinking_led_attiny85.ino) - **Blinking LED ATtiny85** - This sketch is to upload to ATtiny85. It will blink an LED on Pin Zero. See previous project #24 - PROJECT ATTINY85 - January 13, 2024.
 
-[Project # 25](UNIR_SAMSUNG/navetech.unir.br/TODO)
+[Project # 26](UNIR_SAMSUNG/navetech.unir.br/26_UNIR_basic_TX_nRF24L_arduino.ino) - **Basic Transmitter nRF24L Radio** - This is a component of my study on nRF24L0 radios - Tutorial: from dparson [NRFLite Arduino nRF24L01 library](https://youtu.be/tWEgvS7Sj-8?si=zdPP_o1gHMPNGU54) - PROJECT RADIO NRF24L0 - January 14, 2024.
 
-[Project # 26](UNIR_SAMSUNG/navetech.unir.br/TODO)
+[Project # 27](UNIR_SAMSUNG/navetech.unir.br/27_UNIR_basic_RX_nRF24L_arduino.ino)- **Basic Receiver nRF24L Radio** - This is a component of my study on nRF24L0 radios - Tutorial: from dparson [NRFLite Arduino nRF24L01 library](https://youtu.be/tWEgvS7Sj-8?si=zdPP_o1gHMPNGU54) - PROJECT RADIO NRF24L0 - January 14, 2024.
+
+[Project # 28](UNIR_SAMSUNG/navetech.unir.br/28_UNIR_TX_ACK_nRF24L_arduino.ino)  - **Transmission data with nRF24L Radio module and Acknowledgment (ACK)** - The transmitter patiently awaits an acknowledgment (ACK) from the receiver  - PROJECT RADIO NRF24L0 - January 14, 2024.
+
+[Project # 29](UNIR_SAMSUNG/navetech.unir.br/29_UNIR_RX_ACK_nRF24L_arduino.ino) - **Receiving data with nRF24L radio module and acknowledgment (ACK)** - The receiver acknowledges the transmitter - PROJECT RADIO NRF24L0 - January 14, 2024.
+
+[Project # 30](UNIR_SAMSUNG/navetech.unir.br/30_UNIR_TX_ACK_INT_nRF24L_arduino.ino) - **Transmission data nRF24L Radio module with Acknowledgment (ACK) using interrupts.**- The transmitter awaits an acknowledgment; the transmitter is using interruptions instead of polling - PROJECT RADIO NRF24L0 - January 14, 2024.
+
+[Project # 31](UNIR_SAMSUNG/navetech.unir.br/31_UNIR_RX_ACK_INT_nRF24L_arduino.ino) - **Receiving data nRF24L Radio module with Acknowledgment (ACK) using interrupts.** - The receiver acknowledges the transmitter using interruptions instead of polling - PROJECT RADIO NRF24L0 - January 14, 2024.
+
+
+[Project # 32](UNIR_SAMSUNG/navetech.unir.br/32_UNIR_TwoWayCom_HardwareBased_TX_nRF24L_arduino.ino) - **Two Way Communication (Hardware Based) - Transmission via nRF24L Radio** - Demonstrates two-way communication using hardware features of the radio - PROJECT RADIO NRF24L0 - January 14, 2024.
+
+[Project # 33](UNIR_SAMSUNG/navetech.unir.br/33_UNIR_TwoWayCom_HardwareBased_RX_nRF24L_arduino.ino) - **Two Way Communication (Hardware Based) - Reception via nRF24L Radio** - Demonstrates two-way communication using hardware features of the radio - PROJECT RADIO NRF24L0 - January 14, 2024.
+
+[Project # 34](UNIR_SAMSUNG/navetech.unir.br/34_UNIR_Soil_Mosture_TX_nRF24L_pro_mini.ino) - **[Smart Soil Moisture Monitoring System](https://medium.com/jungletronics/smart-soil-moisture-monitoring-system-09135a6dcd87)** - Reading the Amount of Moisture Present in the Soil using nRF24L Radios! — NaveTECH & UNIR Series — Episode # 06 -  See Project #27 - PHYSICAL PROJECT - January 14, 2024.
+
+
+[Project # 35](UNIR_SAMSUNG/navetech.unir.br/TODO) - 
+
+[Project # 36](UNIR_SAMSUNG/navetech.unir.br/TODO)
+
+[Project # 37](UNIR_SAMSUNG/navetech.unir.br/TODO)
+
+[Project # 38](UNIR_SAMSUNG/navetech.unir.br/TODO)
