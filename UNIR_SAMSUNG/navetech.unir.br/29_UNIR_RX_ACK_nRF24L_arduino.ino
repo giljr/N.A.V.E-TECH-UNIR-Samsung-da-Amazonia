@@ -53,34 +53,19 @@ it under the terms of the GNU General Public License v3 as published by
 
 NRFLite _radio;
 uint8_t _data;
-// https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/
-const byte interruptPin = 2;
 
 void setup()
 {
   Serial.begin(115200);
   _radio.init(0, 7, 8); // Set radio to Id = 0, along with its CE and CSN pins
-  attachInterrupt(digitalPinToInterrupt(interruptPin), radioInterrupt, FALLING);
 }
 
-void loop() { }  
-
-void radioInterrupt()
-{
-  uint8_t tx_ok, tx_fail, rx_ready;
-  _radio.whatHappened(tx_ok, tx_fail, rx_ready);
-  
-  if(rx_ready) {
-
-        while (_radio.hasDataISR()){
-          
-          _radio.readData(&_data);
-          Serial.println(_data);
-          uint8_t ackData = _data + 100;
-          _radio.addAckData(&ackData, sizeof(ackData));
-
-      }
-
-    }
-
+void loop() {
+  if (_radio.hasData()){      
+      _radio.readData(&_data);
+      Serial.println(_data);
+        
+      uint8_t ackData = _data + 100;
+      _radio.addAckData(&ackData, sizeof(ackData));
+  }  
 }
