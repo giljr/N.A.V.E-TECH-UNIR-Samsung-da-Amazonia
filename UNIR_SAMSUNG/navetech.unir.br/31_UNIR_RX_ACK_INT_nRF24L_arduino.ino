@@ -49,13 +49,14 @@ This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License v3 as published by
  
 */
+
 #include <SPI.h>
 #include <NRFLite.h>
 
 NRFLite _radio;
 uint8_t _data;
 // https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/
-const byte interruptPin = 2;
+const byte interruptPin = 3;
 
 void setup()
 {
@@ -85,3 +86,4 @@ void radioInterrupt()
     }
 
 }
+
