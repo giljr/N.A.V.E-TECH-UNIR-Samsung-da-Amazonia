@@ -32,7 +32,7 @@ Execution:
 
 📰 [Trail Schedule](docs/Execucao_das_Trilhas___Roteiro__Versao_5__1322525210.pdf/)
 
-## 🎓 Lessons Learned 
+## 🎓 Lessons Learned & 🛠 Tools Used 
 Here's a brief description:
 
 **[TinkerCAD](https://www.tinkercad.com/) Simulator**:
@@ -42,9 +42,13 @@ TinkerCAD is an online platform that provides a virtual environment for designin
 Arduino Sketches are programs written in the Arduino programming language to control and interact with Arduino microcontrollers. These sketches define the behavior of the Arduino, instructing it on how to read inputs, process information, and control outputs.
 
 **[ESP32](https://www.espressif.com/en/products/socs/esp32)**:
-A feature-rich MCU with integrated Wi-Fi and Bluetooth connectivity for a wide-range of applications
+A feature-rich MCU dev-board with integrated Wi-Fi Bluetooth and Radio LoRa connectivity for a wide range of applications
 
 **Heltec WiFi LoRa 32(V2) or [WiFi LoRa 32(V3)](https://heltec.org/project/wifi-lora-32-v3/)**: WiFi LoRa 32 is a classic IoT dev-board designed & produced by Heltec Automation.
+
+**[nRF24L01](https://www.mouser.com/datasheet/2/297/nRF24L01_Product_Specification_v2_0-9199.pdf)**: The Radio nRF24L01 is a single chip 2.4GHz transceiver with an embedded baseband protocol engine (Enhanced ShockBurst™), designed for ultra low power wireless applications. The nRF24L01 is designed for operation in the worldwide ISM frequency band at 2.400 - 2.4835GHz. An MCU (microcontroller) and very few external passive components are needed to design a radio system with the nRF24L01.
+The nRF24L01 is configured and operated through a Serial Peripheral Interface (SPI.).
+The air data rate supported by the nRF24L01 is configurable to 2Mbps.
 
 **Electronics Course**:
 The electronics course covers the fundamental principles of electronics, including topics such as circuit analysis, electronic components, digital and analog electronics, and the use of tools like oscilloscopes and multimeters. Such a course may also involve hands-on projects and experiments to apply theoretical knowledge in practical situations.
@@ -106,24 +110,24 @@ This code, developed by Jose Antonio, aims to evolve into a real irrigation proj
       
 [Project # 25](UNIR_SAMSUNG/navetech.unir.br/25_UNIR_blinking_led_attiny85.ino) - **[Blinking LED ATtiny85](https://medium.com/jungletronics/attiny85-easy-flashing-through-arduino-b5f896c48189)** - This sketch is to upload to ATtiny85. It will blink an LED on Pin Zero. See [this](https://medium.com/jungletronics/fast-rainbow-circuit-f0dddd5ee28) project too - PROJECT ATTINY85 - January 13, 2024.
 
-[Project # 26](UNIR_SAMSUNG/navetech.unir.br/26_UNIR_basic_TX_nRF24L_arduino.ino) - **Basic Transmitter nRF24L Radio** - This is a component of my study on nRF24L0 radios - Tutorial: from dparson [NRFLite Arduino nRF24L01 library](https://youtu.be/tWEgvS7Sj-8?si=zdPP_o1gHMPNGU54) - for RX Project #27 - PROJECT RADIO NRF24L0 - January 14, 2024.
+[Project # 26](UNIR_SAMSUNG/navetech.unir.br/26_UNIR_basic_TX_nRF24L_arduino.ino) - **Basic Transmitter nRF24L Radio** - This is a component of my study on nRF24L0 radios - Tutorial: from dparson [NRFLite Arduino nRF24L01 library](https://youtu.be/tWEgvS7Sj-8?si=zdPP_o1gHMPNGU54) - for RX use Project #27 - PROJECT RADIO NRF24L0 - January 14, 2024.
 
-[Project # 27](UNIR_SAMSUNG/navetech.unir.br/27_UNIR_basic_RX_nRF24L_arduino.ino)- **Basic Receiver nRF24L Radio** - This is a component of my study on nRF24L0 radios - Tutorial: from dparson [NRFLite Arduino nRF24L01 library](https://youtu.be/tWEgvS7Sj-8?si=zdPP_o1gHMPNGU54) -  for TX Project 26 - PROJECT RADIO NRF24L0 - January 14, 2024.
+[Project # 27](UNIR_SAMSUNG/navetech.unir.br/27_UNIR_basic_RX_nRF24L_arduino.ino)- **Basic Receiver nRF24L Radio** - This is a component of my study on nRF24L0 radios - Tutorial: from dparson [NRFLite Arduino nRF24L01 library](https://youtu.be/tWEgvS7Sj-8?si=zdPP_o1gHMPNGU54) -  for TX use Project 26 - PROJECT RADIO NRF24L0 - January 14, 2024.
 
-[Project # 28](UNIR_SAMSUNG/navetech.unir.br/28_UNIR_TX_ACK_nRF24L_arduino.ino)  - **Transmission data with nRF24L Radio module and Acknowledgment (ACK)** - The transmitter patiently awaits an acknowledgment (ACK) from the receiver - for RX Project #29 - PROJECT RADIO NRF24L0 - January 14, 2024.
+[Project # 28](UNIR_SAMSUNG/navetech.unir.br/28_UNIR_TX_ACK_nRF24L_arduino.ino)  - **Transmission data with nRF24L Radio module and Acknowledgment (ACK)** - The transmitter patiently awaits an acknowledgment (ACK) from the receiver - for RX use Project #29 - PROJECT RADIO NRF24L0 - January 14, 2024.
 
-[Project # 29](UNIR_SAMSUNG/navetech.unir.br/29_UNIR_RX_ACK_nRF24L_arduino.ino) - **Receiving data with nRF24L radio module and acknowledgment (ACK)** - The receiver acknowledges the transmitter - for TX Project #28 -PROJECT RADIO NRF24L0 - January 14, 2024.
+[Project # 29](UNIR_SAMSUNG/navetech.unir.br/29_UNIR_RX_ACK_nRF24L_arduino.ino) - **Receiving data with nRF24L radio module and acknowledgment (ACK)** - The receiver acknowledges the transmitter - for TX use Project #28 -PROJECT RADIO NRF24L0 - January 14, 2024.
 
-[Project # 30](UNIR_SAMSUNG/navetech.unir.br/30_UNIR_TX_ACK_INT_nRF24L_arduino.ino) - **Transmission data nRF24L Radio module with Acknowledgment (ACK) using interrupts.**- The transmitter awaits an acknowledgment; the transmitter is using interruptions instead of polling - for RX Project #31 - PROJECT RADIO NRF24L0 - January 14, 2024.
+[Project # 30](UNIR_SAMSUNG/navetech.unir.br/30_UNIR_TX_ACK_INT_nRF24L_arduino.ino) - **Transmission data nRF24L Radio module with Acknowledgment (ACK) using interrupts.**- The transmitter awaits an acknowledgment; the transmitter is using interruptions instead of polling - for RX use Project #31 - PROJECT RADIO NRF24L0 - January 14, 2024.
 
-[Project # 31](UNIR_SAMSUNG/navetech.unir.br/31_UNIR_RX_ACK_INT_nRF24L_arduino.ino) - **Receiving data nRF24L Radio module with Acknowledgment (ACK) using interrupts.** - The receiver acknowledges the transmitter using interruptions instead of polling -  for TX Project #30 - PROJECT RADIO NRF24L0 - January 14, 2024.
+[Project # 31](UNIR_SAMSUNG/navetech.unir.br/31_UNIR_RX_ACK_INT_nRF24L_arduino.ino) - **Receiving data nRF24L Radio module with Acknowledgment (ACK) using interrupts.** - The receiver acknowledges the transmitter using interruptions instead of polling -  for TX use Project #30 - PROJECT RADIO NRF24L0 - January 14, 2024.
 
 
-[Project # 32](UNIR_SAMSUNG/navetech.unir.br/32_UNIR_TwoWayCom_HardwareBased_TX_nRF24L_arduino.ino) - **Two Way Communication (Hardware Based) - Transmission via nRF24L Radio** - Demonstrates two-way communication using hardware features of the radio -  for RX Project #33 -  PROJECT RADIO NRF24L0 - January 14, 2024.
+[Project # 32](UNIR_SAMSUNG/navetech.unir.br/32_UNIR_TwoWayCom_HardwareBased_TX_nRF24L_arduino.ino) - **Two Way Communication (Hardware Based) - Transmission via nRF24L Radio** - Demonstrates two-way communication using hardware features of the radio -  for RX use Project #33 -  PROJECT RADIO NRF24L0 - January 14, 2024.
 
-[Project # 33](UNIR_SAMSUNG/navetech.unir.br/33_UNIR_TwoWayCom_HardwareBased_RX_nRF24L_arduino.ino) - **Two Way Communication (Hardware Based) - Reception via nRF24L Radio** - Demonstrates two-way communication using hardware features of the radio -  for TX Project #32 - PROJECT RADIO NRF24L0 - January 14, 2024.
+[Project # 33](UNIR_SAMSUNG/navetech.unir.br/33_UNIR_TwoWayCom_HardwareBased_RX_nRF24L_arduino.ino) - **Two Way Communication (Hardware Based) - Reception via nRF24L Radio** - Demonstrates two-way communication using hardware features of the radio -  for TX use Project #32 - PROJECT RADIO NRF24L0 - January 14, 2024.
 
-[Project # 34](UNIR_SAMSUNG/navetech.unir.br/34_UNIR_Soil_Mosture_TX_nRF24L_pro_mini.ino) - **[Smart Soil Moisture Monitoring System](https://medium.com/jungletronics/smart-soil-moisture-monitoring-system-09135a6dcd87)** - Reading the Amount of Moisture Present in the Soil using nRF24L Radios! — NaveTECH & UNIR Series — Episode # 06 -  RX Project #27 - PHYSICAL PROJECT - January 14, 2024.
+[Project # 34](UNIR_SAMSUNG/navetech.unir.br/34_UNIR_Soil_Mosture_TX_nRF24L_pro_mini.ino) - **[Smart Soil Moisture Monitoring System](https://medium.com/jungletronics/smart-soil-moisture-monitoring-system-09135a6dcd87)** - Reading the Amount of Moisture Present in the Soil using nRF24L Radios! — NaveTECH & UNIR Series — Episode # 06 -  for RX use Project #27 - PHYSICAL PROJECT - January 14, 2024.
 
 
 [Project # 35](UNIR_SAMSUNG/navetech.unir.br/TODO) - 
