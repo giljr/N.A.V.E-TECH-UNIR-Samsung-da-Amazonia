@@ -1,0 +1,238 @@
+---------------------------first_example -------------------------------------------
+
+Reset reason = Hardware Watchdog
+
+1st test - running with WiFi unconfigured
+The internal VCC reads 4.41 volts
+press the switch to continue
+
+2nd test - Automatic Modem Sleep
+connecting WiFi, please wait until the LED blinks
+resuming WiFi
+WiFi connect time = 18.66 seconds
+The amperage will drop in 7 seconds.
+The internal VCC reads 4.37 volts
+press the switch to continue
+
+3rd test - Forced Modem Sleep
+The internal VCC reads 4.47 volts
+press the switch to continue
+
+4th test - Automatic Light Sleep
+reconnecting WiFi with forceSleepWake
+Automatic Light Sleep begins after WiFi connects (LED blinks)
+WiFi connect time = 3.07 seconds
+The internal VCC reads 4.47 volts
+long press of the switch to continue
+
+5th test - Timed Light Sleep, wake in 10 seconds
+Press the button when you're ready to proceed
+The internal VCC reads 4.46 volts
+millis() = 147761
+
+millis() = 157775
+millis() = 158591
+Woke from Light Sleep - this is the callback
+Woke up!
+
+7th test - Deep Sleep for 10 seconds, reset and wake with RF_DEFAULT
+resuming WiFi
+WiFi connect time = 18.70 seconds
+The internal VCC reads 4.45 volts
+press the switch to continue
+going into Deep Sleep now...
+millis() = 184601
+��������������������������������������������������������������������������rld��|�l�|�$�c|����{�c�c��o'�lno���bx��l;l{lx�n��d��cg�|���c��'o�$��l`�ngl`'{���gc$�lx�o�{������cg�|�b��og�$`�ogl n{���gcē`s��nc��`����{�l ��n�l����n�{��o|��d�;lc��|r�l�o��g�l`��{�d�l��
+
+Reset reason = Deep-Sleep Wake
+millis() = 76
+resuming WiFi
+WiFi connect time = 18.66 seconds
+
+8th test - in RF_DEFAULT, Deep Sleep for 10 seconds, reset and wake with RFCAL
+The internal VCC reads 4.39 volts
+press the switch to continue
+going into Deep Sleep now...
+��������������������������������������������������������������������������;ld��|�$�|�d�c<ǃ��{�c�b��og�l'o���#x��${l{$p�'��l��co�<���c��gn�d��$`�'o$`g{���obd�$p�'�{�ܜ���co�|�#��no�d`�no$`'{���oc�� s��'c��`�Ǐ�s�$`��'�$����o�r��g|��$�sdc��|s�d�g��'�d`��r�l�d��
+
+Reset reason = Deep-Sleep Wake
+resuming WiFi
+
+
+
+---------------------------second_example -------------------------------------------
+
+sdlܟ<�l�<�l�c|����r�#�c��go�dog���cp�dsdrl8�o��$��b'�|���b��og�l��l`�o'l`orǛ�'cl�d8�g�r��ܜ��b'�|�c��g'�l �g'l`orǛ�'c��`{��ob��`����;�d`��o�l����'�{��o|��d�{lc��|;�l�o��g�l`��{�d�l��
+
+Reset reason = External System
+I'm awake and starting the Low Power tests
+
+1st test - running with WiFi unconfigured
+The internal VCC reads 4.47 volts
+press the switch to continue
+
+2nd test - Automatic Modem Sleep
+connecting WiFi, please wait until the LED blinks
+resuming WiFi
+WiFi connect time = 18.66 seconds
+The amperage will drop in 7 seconds.
+The internal VCC reads 4.47 volts
+press the switch to continue
+
+3rd test - Forced Modem Sleep
+The internal VCC reads 4.47 volts
+press the switch to continue
+
+4th test - Automatic Light Sleep
+reconnecting WiFi with forceSleepWake
+Automatic Light Sleep begins after WiFi connects (LED blinks)
+WiFi connect time = 3.07 seconds
+The internal VCC reads 4.47 volts
+long press of the switch to continue
+
+5th test - Timed Light Sleep, wake in 10 seconds
+Press the button when you're ready to proceed
+The internal VCC reads 4.47 volts
+millis() = 84783
+millis() = 84795
+Woke from Light Sleep - this is the callback
+Woke up!
+
+6th test - Forced Light Sleep, wake with GPIO interrupt
+The internal VCC reads 4.47 volts
+CPU going to sleep, pull WAKE_UP_PIN low to wake it (press the switch)
+millis() = 94795
+millis() = 95688
+Woke from Light Sleep - this is the callback
+Woke up!
+
+7th test - Deep Sleep for 10 seconds, reset and wake with RF_DEFAULT
+resuming WiFi
+WiFi timed out and didn't connect
+The internal VCC reads 4.47 volts
+press the switch to continue
+going into Deep Sleep now...
+millis() = 135592
+���������������������������������������������������������������������������;ld��|�$�|�d�c<ǃ��{�c�b��og�l'o���#x��${l{$p�'��l��co�<���c��gn�d��$`�'o$`gs���obd�$p�'�{�ܜ���co�<�#��no�d`�no$`'{���oc�� s��'c��`�Ǐ�s�$`��'�$����g�s��'|��l�sdc��<s�d�'��n�$`��s�l�$��
+
+Reset reason = Deep-Sleep Wake
+millis() = 72
+resuming WiFi
+WiFi connect time = 18.66 seconds
+
+8th test - in RF_DEFAULT, Deep Sleep for 10 seconds, reset and wake with RFCAL
+The internal VCC reads 4.47 volts
+press the switch to continue
+going into Deep Sleep now...
+��������������������������������������������������������������������������{ll��|�d�|�d�b|����s�c�#��ng�$gn���cp��d{$sdp�g��l��cn�|���c��g'�lćd`�god`gs�ۓo#l�dp�g�sĜ����co�<�c��'o�d`�'od`gs�ۓo#��`;��gcē`����s�d`��g�d����g��s��'|��l�s$#��|{�$�'��n�$`��s�l�l��
+
+Reset reason = Deep-Sleep Wake
+resuming WiFi
+WiFi connect time = 18.66 seconds
+
+9th test - in RFCAL, Deep Sleep Instant for 10 seconds, reset and wake with NO_RFCAL
+The internal VCC reads 4.47 volts
+press the switch to continue
+going into Deep Sleep now...
+��������������������������������������������������������������������������;ld��|�$�|�d�c|ǃ��{�c�b��og�l'o���#x��l{l{$p�'��l��co�<���c��'o�d��$`�no$`'{���obd�lp�n�{������co�|�#��ng�d`�ng$`'{���gc�� s��'c��`�Ǐ�s�l`��'�$����g��s��n|��l�{$#��|{�$�n��o�l`��s�l�l��
+
+Reset reason = Deep-Sleep Wake
+resuming WiFi
+WiFi timed out and didn't connect
+
+10th test - in NO_RFCAL, Deep Sleep Instant for 10 seconds, reset and wake with RF_DISABLED
+The internal VCC reads 4.47 volts
+press the switch to continue
+going into Deep Sleep now...
+��������������������������������������������������������������������������{ll��|�d�|�d�c<����{�c�#��og�lgo���cp��${ls$p�'��l��co�<���c��gn�d��d`�'od`gs�ۓobd�$p�'�s�ܜ���co�<�c��'o�d`�'o$`gs���ob��`r��gc��`����s�$`��'�$bc�g|��g'�p�od�r�ۃ{�$g|ld$`����o�;��g|��$�rlc��|s�d�g��'�d`��r�$�d��
+
+Reset reason = Deep-Sleep Wake
+The internal VCC reads 4.47 volts
+
+Tests completed, in RF_DISABLED, press the switch to do an ESP.restart()
+
+
+---------------------------third_example -------------------------------------------
+
+{ll��|�d�|�d�b<����s�c�#��og�lgo���cp��${$sdp�g��l��co�<���c��gn�dćd`�'od`gs�ۓo#d�$p�'�s�ܜ���co�<�c��'o�d`�'o$`gs���ob��`r��gc��`����s�$`��g�d����n�{��o|��d�;lc��|r�l�o��g�l`��;�d�d�$`��s�l�$�l ��{�d���ld`���o��o$sd��
+
+Reset reason = External System
+I'm awake and starting the Low Power tests
+
+1st test - running with WiFi unconfigured
+The internal VCC reads 4.47 volts
+press the switch to continue
+
+2nd test - Automatic Modem Sleep
+connecting WiFi, please wait until the LED blinks
+connecting to WiFi EagleWireless
+WiFi connect time = 4.49 seconds
+The amperage will drop in 7 seconds.
+The internal VCC reads 4.47 volts
+press the switch to continue
+
+3rd test - Forced Modem Sleep
+The internal VCC reads 4.47 volts
+press the switch to continue
+
+4th test - Automatic Light Sleep
+reconnecting WiFi with forceSleepWake
+Automatic Light Sleep begins after WiFi connects (LED blinks)
+WiFi connect time = 3.60 seconds
+The internal VCC reads 4.47 volts
+long press of the switch to continue
+5th test - Timed Light Sleep, wake in 10 seconds
+Press the button when you're ready to proceed
+The internal VCC reads 4.47 volts
+millis() = 51848
+millis() = 52414
+Woke from Light Sleep - this is the callback
+Woke up!
+
+6th test - Forced Light Sleep, wake with GPIO interrupt
+The internal VCC reads 4.47 volts
+CPU going to sleep, pull WAKE_UP_PIN low to wake it (press the switch)
+millis() = 61860
+millis() = 62525
+Woke from Light Sleep - this is the callback
+Woke up!
+
+7th test - Deep Sleep for 10 seconds, reset and wake with RF_DEFAULT
+resuming WiFi
+WiFi connect time = 18.65 seconds
+The internal VCC reads 4.47 volts
+press the switch to continue
+going into Deep Sleep now...
+
+8th test - in RF_DEFAULT, Deep Sleep for 10 seconds, reset and wake with RFCAL
+The internal VCC reads 4.42 volts
+press the switch to continue
+going into Deep Sleep now...
+��������������������������������������������������������������������������{$l��|�d�|�d�b|����s�b�#��no�$gn���cp��ds$sdp�g��l��cn�|���c��g'�l��d`�gnd`gs�ۓn#l�dp�g�sĜ����co�|�c��go�l`�god`gs�ۓo#��`;��gcĒ`����r�d`��g�d����g�s��n|��l�{$#��|{�$�n��o�l`��s�l�l��
+
+Reset reason = Deep-Sleep Wake
+resuming WiFi
+WiFi connect time = 18.66 seconds
+
+9th test - in RFCAL, Deep Sleep Instant for 10 seconds, reset and wake with NO_RFCAL
+The internal VCC reads 4.47 volts
+press the switch to continue
+going into Deep Sleep now...
+��������������������������������������������������������������������������{ll��|�d�|�d�b<����s�c�#��ng�lgn���cp��${$sdp�g��l��co�|���c��g'�lćd`�'od`gs�ۓo#d�$p�'�s�ܜ���co�<�c��'o�d`�'od`gs���ob��`r��gcē`����s�$`��g�d����o�;��o|��d�;lc��|r�l�g��g�d`��;�$�d��
+
+Reset reason = Deep-Sleep Wake
+resuming WiFi
+WiFi connect time = 18.66 seconds
+
+10th test - in NO_RFCAL, Deep Sleep Instant for 10 seconds, reset and wake with RF_DISABLED
+The internal VCC reads 4.47 volts
+press the switch to continue
+going into Deep Sleep now...
+��������������������������������������������������������������������������{ll��|�d�|�d�c<ǃ��{�c�b��og�l'o���#p��${ls$p�'��l��co�<���c��gn�d��d`�'od`gs���obd�$p�'�s�ܜ���co�<�c��'o�d`�'o$`g{���ob�� r��'c��`����s�$`��'�$#c�g|��g'�p�od�r�ۃ{�$g|ld$`����o�;��g|��d�rlc��|s�d�g��g�d`��r�$�d��
+
+Reset reason = Deep-Sleep Wake
+The internal VCC reads 4.47 volts
+
+Tests completed, in RF_DISABLED, press the switch to do an ESP.restart()
+
+---------------------------   -------------------------------------------

@@ -1,0 +1,27 @@
+connecting WiFi, please wait until the LED blinks
+connecting to WiFi ........
+WiFi connected
+WiFi connection established in 4830 milliseconds
+WiFi Gateway IP: 192.168.0.1
+my IP address: 192.168.0.105
+my Subnet mask: 255.255.255.0
+my dns1: 192.168.0.1
+my dns2: (IP unset)
+The amperage will drop in 7 seconds.
+The internal VCC reads 4.47 volts
+press the switch to continue
+
+2th test - Enter In Deep Sleep Mode, reset and wake with RF_DEFAULT.
+The ESP8266 will enter Deep Sleep Mode. 
+Use the RST pin to wake it with RF_DEFAULT in just 10 seconds.
+The internal VCC reads 4.47 volts
+press the switch to continue
+going into Deep Sleep now...
+millis() = 28656
+��������������������������������������������������������������������������{$l��|�d�|�l�#|����s�b�c��no�$gn���cp��ds$sdp�g��l��cn�|���c��o'�l��d`�gnd`gs�ۓn#l�dp�g�sĜ����cn�|�c��gn�l`�god`gs�ۓo#��`;��gcĒ`���d`��g�d����o�;��o|��d�;lc��|r�l�g��g�d`��;�$�d��
+
+Reset reason = Deep-Sleep Wake
+
+1nd test - WiFi Connection Establishment - an over simplification method!
+connecting WiFi, please wait until the LED blinks
+connecting to WiFi ........
