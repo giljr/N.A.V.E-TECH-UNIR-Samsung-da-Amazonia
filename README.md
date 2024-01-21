@@ -130,9 +130,9 @@ This code, developed by Jose Antonio, aims to evolve into a real irrigation proj
 [Project # 34](UNIR_SAMSUNG/navetech.unir.br/34_UNIR_Soil_Mosture_TX_nRF24L_pro_mini.ino) - **[Smart Soil Moisture Monitoring System](https://medium.com/jungletronics/smart-soil-moisture-monitoring-system-09135a6dcd87)** - Reading the Amount of Moisture Present in the Soil using nRF24L Radios! — NaveTECH & UNIR Series — Episode # 06 -  for RX use Project #27 - PHYSICAL PROJECT - January 14, 2024.
 
 
-[Project # 35](UNIR_SAMSUNG/navetech.unir.br/TODO) - 
+[Project # 35](UNIR_SAMSUNG/navetech.unir.br/35_UNIR_esp8266_low_power_demo.ino) - **[Optimizing Power Consumption on ESP8266](https://medium.com/jungletronics/optimizing-power-consumption-on-esp8266-6563872a917d)** -  A Comprehensive Guide to Deep Sleep Modes - NaveTECH & UNIR Series - This section delves into the typical implementation of low-power modes on the ESP8266. - Episode # 07 - See [media files](UNIR_SAMSUNG/navetech.unir.br/media/esp8266/) inside folder **media/esp8266/** - PROJECT ESP8266 - January 21, 2024.
 
-[Project # 36](UNIR_SAMSUNG/navetech.unir.br/TODO)
+[Project # 36](UNIR_SAMSUNG/navetech.unir.br/36_UNIR_esp8266_low_power_demo_simplified.ino)  - **[Optimizing Power Consumption on ESP8266](https://medium.com/jungletronics/optimizing-power-consumption-on-esp8266-6563872a917d)** -  A Comprehensive Guide to Deep Sleep Modes - NaveTECH & UNIR Series - This code is incredibly straightforward and uncomplicated. It will initiate a WiFi connection (test1) and transition the ESP8266 into Deep Sleep Mode (test2) - See [media files](UNIR_SAMSUNG/navetech.unir.br/media/esp8266/) inside folder **media/esp8266/** - - Episode # 07 - PROJECT ESP8266 - January 21, 2024.
 
 [Project # 37](UNIR_SAMSUNG/navetech.unir.br/TODO)
 
