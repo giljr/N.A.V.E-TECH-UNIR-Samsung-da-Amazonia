@@ -1,0 +1,60 @@
+Motion ended! lapse time = 3014
+Motion detected!
+Motion ended! lapse time = 5878
+Motion detected!
+Motion ended! lapse time = 10775
+Motion detected!
+Motion ended! lapse time = 11726
+Motion detected!
+Motion ended! lapse time = 11562
+Motion detected!
+Motion ended! lapse time = 12094
+Motion detected!
+Motion ended! lapse time = 19139
+Motion detected!
+Motion ended! lapse time = 18120
+Motion detected!
+Motion ended! lapse time = 24198
+Motion detected!
+Motion ended! lapse time = 24604
+Motion detected!
+Motion ended! lapse time = 43469
+Motion detected!
+Motion ended! lapse time = 44665
+Motion detected!
+Motion ended! lapse time = 42994
+Motion detected!
+Motion ended! lapse time = 56921
+Motion detected!
+Motion ended! lapse time = 58146
+Motion detected!
+Motion ended! lapse time = 57656
+Motion detected!
+Motion detected!
+Motion ended! lapse time = 9001
+Motion detected!
+Motion ended! lapse time = 4996
+Motion detected!
+Motion ended! lapse time = 4894
+Motion detected!
+Motion ended! lapse time = 2982
+Motion detected!
+Motion ended! lapse time = 5893
+Motion detected!
+Motion ended! lapse time = 3008
+Motion detected!
+Motion ended! lapse time = 3891
+Motion detected!
+Motion ended! lapse time = 5407
+Motion detected!
+Motion ended! lapse time = 5029
+Motion detected!
+Motion ended! lapse time = 3277
+Motion detected!
+Motion ended! lapse time = 4880
+Motion detected!
+Motion ended! lapse time = 5553
+Motion detected!
+Motion ended! lapse time = 150047
+Motion detected!
+Motion ended! lapse time = 147983

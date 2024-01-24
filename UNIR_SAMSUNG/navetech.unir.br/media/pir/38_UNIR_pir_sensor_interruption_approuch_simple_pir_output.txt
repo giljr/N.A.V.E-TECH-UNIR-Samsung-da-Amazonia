@@ -1,0 +1,11 @@
+Motion ended! lapse time = 7158
+Motion detected!
+Motion ended! lapse time = 7870
+Motion detected!
+Motion ended! lapse time = 7789
+Motion detected!
+Motion ended! lapse time = 8229
+Motion detected!
+Motion ended! lapse time = 8032
+Motion detected!
+Motion ended! lapse time = 7805
