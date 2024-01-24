@@ -132,8 +132,16 @@ This code, developed by Jose Antonio, aims to evolve into a real irrigation proj
 
 [Project # 35](UNIR_SAMSUNG/navetech.unir.br/35_UNIR_esp8266_low_power_demo.ino) - **[Optimizing Power Consumption on ESP8266](https://medium.com/jungletronics/optimizing-power-consumption-on-esp8266-6563872a917d)** -  A Comprehensive Guide to Deep Sleep Modes - NaveTECH & UNIR Series - This section delves into the typical implementation of low-power modes on the ESP8266. - Episode # 07 - See [media files](UNIR_SAMSUNG/navetech.unir.br/media/esp8266/) inside folder **media/esp8266/** - PROJECT ESP8266 - January 21, 2024.
 
-[Project # 36](UNIR_SAMSUNG/navetech.unir.br/36_UNIR_esp8266_low_power_demo_simplified.ino)  - **[Optimizing Power Consumption on ESP8266](https://medium.com/jungletronics/optimizing-power-consumption-on-esp8266-6563872a917d)** -  A Comprehensive Guide to Deep Sleep Modes - NaveTECH & UNIR Series - This code is incredibly straightforward and uncomplicated. It will initiate a WiFi connection (test1) and transition the ESP8266 into Deep Sleep Mode (test2) - See [media files](UNIR_SAMSUNG/navetech.unir.br/media/esp8266/) inside folder **media/esp8266/** - - Episode # 07 - PROJECT ESP8266 - January 21, 2024.
+[Project # 36](UNIR_SAMSUNG/navetech.unir.br/36_UNIR_esp8266_low_power_demo_simplified.ino)  - **[Optimizing Power Consumption on ESP8266](https://medium.com/jungletronics/optimizing-power-consumption-on-esp8266-6563872a917d)** -  A Comprehensive Guide to Deep Sleep Modes - NaveTECH & UNIR Series - This code is incredibly straightforward and uncomplicated. It will initiate a WiFi connection (test1) and transition the ESP8266 into Deep Sleep Mode (test2) - See [media files](UNIR_SAMSUNG/navetech.unir.br/media/esp8266/) inside folder **media/esp8266/** - Episode # 07 - PROJECT ESP8266 - January 21, 2024.
 
-[Project # 37](UNIR_SAMSUNG/navetech.unir.br/TODO)
+[Project # 37](UNIR_SAMSUNG/navetech.unir.br/37_UNIR_pir_sensor_polling_approuch.ino) - ** PIR Motion Sensing LED Display** Building a PIR Sensor-Based Motion Detector with Arduino — NaveTECH & UNIR Series - This first code utilizes a polling approach, where the detection of motion relies on repeatedly checking the sensor state within a loop and waiting for changes. This code employs a PIR sensor to identify motion and adjusts an LED accordingly. - See [media files](UNIR_SAMSUNG/navetech.unir.br/media/pir/) inside folder **media/pir/** — Episode # 08 - PROJECT PIR - January 24, 2024.
 
-[Project # 38](UNIR_SAMSUNG/navetech.unir.br/TODO)
+
+[Project # 38](UNIR_SAMSUNG/navetech.unir.br/38_UNIR_pir_sensor_interruption_approuch.ino) - ** PIR Motion Sensing LED Display** Building a PIR Sensor-Based Motion Detector with Arduino — NaveTECH & UNIR Series  This implementation relying on interrupts offers distinct advantages over the previous code(#37), especially in scenarios involving time-sensitive events, such as motion detection. Interrupts empower the microcontroller to swiftly react to changes in the sensor state without the necessity for continuous monitoring within the primary program loop, distinguishing it from conventional polling techniques (#37).  - See [media files](UNIR_SAMSUNG/navetech.unir.br/media/pir/) inside folder **media/pir/** — Episode # 08 - PROJECT PIR - January 24, 2024.
+
+[Project # 39](UNIR_SAMSUNG/navetech.unir.br/TODO)
+
+[Project # 40](UNIR_SAMSUNG/navetech.unir.br/TODO)
+
+[Project # 41](UNIR_SAMSUNG/navetech.unir.br/TODO)
+
