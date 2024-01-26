@@ -139,7 +139,7 @@ This code, developed by Jose Antonio, aims to evolve into a real irrigation proj
 
 [Project # 38](UNIR_SAMSUNG/navetech.unir.br/38_UNIR_pir_sensor_interruption_approuch.ino) - **[PIR Motion Sensing LED Display](https://medium.com/jungletronics/pir-motion-sensing-led-display-6192f403c7db)** - Building a PIR Sensor-Based Motion Detector with Arduino — NaveTECH & UNIR Series  This implementation relying on interrupts offers distinct advantages over the previous code(#37), especially in scenarios involving time-sensitive events, such as motion detection. Interrupts empower the microcontroller to swiftly react to changes in the sensor state without the necessity for continuous monitoring within the primary program loop, distinguishing it from conventional polling techniques (#37).  - See [media files](UNIR_SAMSUNG/navetech.unir.br/media/pir/) inside folder **media/pir/** — Episode # 08 - PROJECT PIR - January 24, 2024.
 
-[Project # 39](UNIR_SAMSUNG/navetech.unir.br/TODO)
+[Project # 39](UNIR_SAMSUNG/navetech.unir.br/39_UNIR_esp32_bluetooth_hello_world.ino) - **[Bluetooth Onboard LED blink — WiFi LoRa ESP32 (Heltec)](https://medium.com/jungletronics/bluetooth-onboard-led-blink-wifi-lora-esp32-heltec-4fc1b6e41c45)** - Hello World Bluetooth — NaveTECH & UNIR Series — Episode # 09 - Our proposal involves utilizing a cellular phone to establish a connection with the Bluetooth Module of ESP32 and subsequently regulate the LED functionality - PROJECT BLUETOOTH - January 26, 2024.
 
 [Project # 40](UNIR_SAMSUNG/navetech.unir.br/TODO)
 
