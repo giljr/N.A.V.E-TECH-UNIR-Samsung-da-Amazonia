@@ -50,6 +50,8 @@ A feature-rich MCU dev-board with integrated Wi-Fi Bluetooth and Radio LoRa conn
 The nRF24L01 is configured and operated through a Serial Peripheral Interface (SPI.).
 The air data rate supported by the nRF24L01 is configurable to 2Mbps.
 
+**[24LC256](https://www.microchip.com/en-us/product/24lc256)** - 256Kb I2C compatible 2-wire Serial EEPROM - This device is capable of both random and sequential reads up to the 256K boundary. Functional address lines allow up to eight devices on the same bus, for up to 2 Mbit address space.
+
 **Electronics Course**:
 The electronics course covers the fundamental principles of electronics, including topics such as circuit analysis, electronic components, digital and analog electronics, and the use of tools like oscilloscopes and multimeters. Such a course may also involve hands-on projects and experiments to apply theoretical knowledge in practical situations.
 
@@ -145,9 +147,9 @@ This code, developed by Jose Antonio, aims to evolve into a real irrigation proj
 
 [Project # 41](UNIR_SAMSUNG/navetech.unir.br/41_UNIR_lcd_i2c_custom_char_functions.ino) - **[Defines a set of LCD Energy Custom Characters: Refactored](https://medium.com/jungletronics/how-to-make-a-professional-lcd-display-99d3287c4ebd)** - It utilizes the prior project and refactors the code to achieve the same outcome with greater efficiency and conciseness. LCD 16x2 I2C Library: LCD-I2C by Frank Hafele(v0.2.0) Please see the next project #41 - PROJECT BLUETOOTH - January 27, 2024.
 
-[Project # 42](UNIR_SAMSUNG/navetech.unir.br/42_UNIR_EEPROM24LC256v1.ino.ino) **[EEPROM 24LC256 - Bytes](https://medium.com/jungletronics/eeprom-24lc256-reading-and-writing-arduino-sketch-bdfb6e5a3b13)** — Reading and Writing Arduino Sketch - How to Save Bytes to EEPROM — NaveTECH & UNIR Series — Episode # 11- How to Use 24LC256, 256Kb I2C compatible 2-wire Serial EEPROM - Byte - It is a valuable resource in projects where non-volatile data storage is required, offering reliability, data persistence, and space efficiency.
+[Project # 42](UNIR_SAMSUNG/navetech.unir.br/42_UNIR_EEPROM24LC256v1.ino.ino) **[EEPROM 24LC256 - Bytes](https://medium.com/jungletronics/eeprom-24lc256-reading-and-writing-arduino-sketch-bdfb6e5a3b13)** — Reading and Writing Arduino Sketch - How to Save Bytes to EEPROM — NaveTECH & UNIR Series — Episode # 11- How to Use 24LC256, 256Kb I2C compatible 2-wire Serial EEPROM - Byte - It is a valuable resource in projects where non-volatile data storage is required, offering reliability, data persistence, and space efficiency - PROJECT EEPROM - January 29, 2024.
 
-[Project # 43](UNIR_SAMSUNG/navetech.unir.br/43_UNIR_EEPROM24LC256v2.ino) -**[EEPROM 24LC256- Integer Long](https://medium.com/jungletronics/eeprom-24lc256-reading-and-writing-arduino-sketch-bdfb6e5a3b13)** — Reading and Writing Arduino Sketch How to Save Integers and Longs to EEPROM — NaveTECH & UNIR Series — Episode # 11- How to Use 24LC256, 256Kb I2C compatible 2-wire Serial EEPROM - Long Integers - It is a valuable resource in projects where non-volatile data storage is required, offering reliability, data persistence, and space efficiency.
+[Project # 43](UNIR_SAMSUNG/navetech.unir.br/43_UNIR_EEPROM24LC256v2.ino) -**[EEPROM 24LC256- Integer Long](https://medium.com/jungletronics/eeprom-24lc256-reading-and-writing-arduino-sketch-bdfb6e5a3b13)** — Reading and Writing Arduino Sketch How to Save Integers and Longs to EEPROM — NaveTECH & UNIR Series — Episode # 11- How to Use 24LC256, 256Kb I2C compatible 2-wire Serial EEPROM - Long Integers - It is a valuable resource in projects where non-volatile data storage is required, offering reliability, data persistence, and space efficiency - PROJECT EEPROM - January 29, 2024.
 
 
 [Project # 44](UNIR_SAMSUNG/navetech.unir.br/TODO)
