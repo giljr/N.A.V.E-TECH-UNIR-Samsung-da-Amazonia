@@ -1,6 +1,6 @@
 /*Project: 
       39_UNIR_esp32_bluetooth_hello_world
-      Link: [TODO: link to jungletronics page goes here ]
+      Link: https://medium.com/jungletronics/bluetooth-onboard-led-blink-wifi-lora-esp32-heltec-4fc1b6e41c45
    
    Objective:          
       Our proposal involves utilizing a cellular phone to establish a connection
