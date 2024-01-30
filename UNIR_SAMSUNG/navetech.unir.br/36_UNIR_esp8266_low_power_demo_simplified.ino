@@ -1,6 +1,6 @@
 /*Project: 
       36_UNIR_esp8266_low_power_demo_simplified
-      Link: [TODO: link to jungletronics page goes here ]
+      Link: https://medium.com/jungletronics/optimizing-power-consumption-on-esp8266-6563872a917d
    
    Objective:    
       This code is incredibly straightforward and uncomplicated.
