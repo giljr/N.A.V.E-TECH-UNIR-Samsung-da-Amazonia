@@ -1,6 +1,6 @@
 /*Project: 
       26_UNIR_basic_TX_nRF24L_arduino
-      Link: [TODO: link to jungletronics page goes here ]
+      Link: https://medium.com/jungletronics/smart-soil-moisture-monitoring-system-09135a6dcd87
    
    Objective:       
       This sketch is to upload to Arduino paired with nRF24L Radio.
