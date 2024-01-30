@@ -1,6 +1,6 @@
 /*Project: 
       41_UNIR_lcd_i2c_custom_char_functions.ino
-      Link: [TODO: link to jungletronics page goes here ]
+      Link: https://medium.com/jungletronics/how-to-make-a-professional-lcd-display-99d3287c4ebd
    
    Objective:          
       Defines a set of custom characters and functions to display them on an LCD screen.
