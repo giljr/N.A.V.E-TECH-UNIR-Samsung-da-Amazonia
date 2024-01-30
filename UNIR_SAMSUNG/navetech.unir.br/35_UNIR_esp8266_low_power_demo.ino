@@ -1,6 +1,6 @@
 /*Project: 
       35_UNIR_esp8266_low_power_demo
-      Link: [TODO: link to jungletronics page goes here ]
+      Link: https://medium.com/jungletronics/optimizing-power-consumption-on-esp8266-6563872a917d
    
    Objective:       
       This section delves into the typical implementation of low-power modes on the ESP8266. 
