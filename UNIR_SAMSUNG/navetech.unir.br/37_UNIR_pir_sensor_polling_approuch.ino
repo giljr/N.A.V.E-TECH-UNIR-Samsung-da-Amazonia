@@ -1,6 +1,6 @@
 /*Project: 
       37_UNIR_pir_sensor_polling_approuch
-      Link: [TODO: link to jungletronics page goes here ]
+      Link: https://medium.com/jungletronics/pir-motion-sensing-led-display-6192f403c7db
    
    Objective:           
       This first code utilizes a polling approach, where the detection of motion relies on repeatedly checking 
