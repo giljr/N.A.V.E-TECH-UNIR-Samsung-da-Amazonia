@@ -50,7 +50,7 @@ A feature-rich MCU dev-board with integrated Wi-Fi Bluetooth and Radio LoRa conn
 The nRF24L01 is configured and operated through a Serial Peripheral Interface (SPI.).
 The air data rate supported by the nRF24L01 is configurable to 2Mbps.
 
-**[24LC256](https://www.microchip.com/en-us/product/24lc256)** - 256Kb I2C compatible 2-wire Serial EEPROM - This device is capable of both random and sequential reads up to the 256K boundary. Functional address lines allow up to eight devices on the same bus, for up to 2 Mbit address space.
+**[24LC256](https://www.microchip.com/en-us/product/24lc256)**: 256Kb I2C compatible 2-wire Serial EEPROM - This device is capable of both random and sequential reads up to the 256K boundary. Functional address lines allow up to eight devices on the same bus, for up to 2 Mbit address space.
 
 **Electronics Course**:
 The electronics course covers the fundamental principles of electronics, including topics such as circuit analysis, electronic components, digital and analog electronics, and the use of tools like oscilloscopes and multimeters. Such a course may also involve hands-on projects and experiments to apply theoretical knowledge in practical situations.
