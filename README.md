@@ -141,13 +141,13 @@ This code, developed by Jose Antonio, aims to evolve into a real irrigation proj
 
 [Project # 39](UNIR_SAMSUNG/navetech.unir.br/39_UNIR_esp32_bluetooth_hello_world.ino) - **[Bluetooth Onboard LED blink — WiFi LoRa ESP32 (Heltec)](https://medium.com/jungletronics/bluetooth-onboard-led-blink-wifi-lora-esp32-heltec-4fc1b6e41c45)** - Hello World Bluetooth — NaveTECH & UNIR Series — Episode # 09 - Our proposal involves utilizing a cellular phone to establish a connection with the Bluetooth Module of ESP32 and subsequently regulate the LED functionality - PROJECT BLUETOOTH - January 26, 2024.
 
-[Project # 40](UNIR_SAMSUNG/navetech.unir.br/40_UNIR_lcd_i2c_custom_char.ino) - **[Defines a set of LCD Energy Custom Characters]()** - Defines a set of custom characters and functions to display them on an LCD screen. LCD 16x2 I2C Library: LCD-I2C by Frank Hafele(v0.2.0) Please see the next project #41 - PROJECT BLUETOOTH - January 27, 2024.
+[Project # 40](UNIR_SAMSUNG/navetech.unir.br/40_UNIR_lcd_i2c_custom_char.ino) - **[Defines a set of LCD Energy Custom Characters](https://medium.com/jungletronics/how-to-make-a-professional-lcd-display-99d3287c4ebd)** - Defines a set of custom characters and functions to display them on an LCD screen. LCD 16x2 I2C Library: LCD-I2C by Frank Hafele(v0.2.0) Please see the next project #41 - PROJECT BLUETOOTH - January 27, 2024.
 
-[Project # 41](UNIR_SAMSUNG/navetech.unir.br/41_UNIR_lcd_i2c_custom_char_functions.ino) - **[Defines a set of LCD Energy Custom Characters: Refactored]()** - It utilizes the prior project and refactors the code to achieve the same outcome with greater efficiency and conciseness. LCD 16x2 I2C Library: LCD-I2C by Frank Hafele(v0.2.0) Please see the next project #41 - PROJECT BLUETOOTH - January 27, 2024.
+[Project # 41](UNIR_SAMSUNG/navetech.unir.br/41_UNIR_lcd_i2c_custom_char_functions.ino) - **[Defines a set of LCD Energy Custom Characters: Refactored](https://medium.com/jungletronics/how-to-make-a-professional-lcd-display-99d3287c4ebd)** - It utilizes the prior project and refactors the code to achieve the same outcome with greater efficiency and conciseness. LCD 16x2 I2C Library: LCD-I2C by Frank Hafele(v0.2.0) Please see the next project #41 - PROJECT BLUETOOTH - January 27, 2024.
 
-[Project # 42](UNIR_SAMSUNG/navetech.unir.br/TODO)
+[Project # 42](UNIR_SAMSUNG/navetech.unir.br/42_UNIR_EEPROM24LC256v1.ino.ino) **[EEPROM 24LC256 - Bytes](https://medium.com/jungletronics/eeprom-24lc256-reading-and-writing-arduino-sketch-bdfb6e5a3b13)** — Reading and Writing Arduino Sketch - How to Save Bytes to EEPROM — NaveTECH & UNIR Series — Episode # 11- How to Use 24LC256, 256Kb I2C compatible 2-wire Serial EEPROM - Byte - It is a valuable resource in projects where non-volatile data storage is required, offering reliability, data persistence, and space efficiency.
 
-[Project # 43](UNIR_SAMSUNG/navetech.unir.br/TODO)
+[Project # 43](UNIR_SAMSUNG/navetech.unir.br/43_UNIR_EEPROM24LC256v2.ino) -**[EEPROM 24LC256- Integer Long](https://medium.com/jungletronics/eeprom-24lc256-reading-and-writing-arduino-sketch-bdfb6e5a3b13)** — Reading and Writing Arduino Sketch How to Save Integers and Longs to EEPROM — NaveTECH & UNIR Series — Episode # 11- How to Use 24LC256, 256Kb I2C compatible 2-wire Serial EEPROM - Long Integers - It is a valuable resource in projects where non-volatile data storage is required, offering reliability, data persistence, and space efficiency.
 
 
 [Project # 44](UNIR_SAMSUNG/navetech.unir.br/TODO)
