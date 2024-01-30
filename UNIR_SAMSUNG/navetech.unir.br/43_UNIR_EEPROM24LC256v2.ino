@@ -1,6 +1,6 @@
 /*Project: 
       43_UNIR_EEPROM24LC256v2.ino
-      Link: [TODO: link to jungletronics page goes here ]
+      Link: https://medium.com/jungletronics/eeprom-24lc256-reading-and-writing-arduino-sketch-bdfb6e5a3b13
    
    Objective:   
       Reading and Writing Integers and Longs to EEPROM. See Project #42.     
