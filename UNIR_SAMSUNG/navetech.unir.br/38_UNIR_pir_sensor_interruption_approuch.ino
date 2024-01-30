@@ -1,6 +1,6 @@
 /*Project: 
       38_UNIR_pir_sensor_interruption_approuch
-      Link: [TODO: link to jungletronics page goes here ]
+      Link: https://medium.com/jungletronics/pir-motion-sensing-led-display-6192f403c7db
    
    Objective:          
       This implementation relying on interrupts offers distinct advantages over the previous code(#37), 
