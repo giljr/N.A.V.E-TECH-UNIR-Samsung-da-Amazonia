@@ -1,6 +1,6 @@
   /*Project: 
-      46_UNIR_NEMA17_12VDC_multi_test_code.ino
-      Link: https://medium.com/jungletronics/28byj-48-12-v-stepper-motor-test-fbaa972dfea5
+      46_UNIR_NEMA17_12VDC_multi_test_code.ino      
+      Link: https://medium.com/jungletronics/nema-17-stepper-motor-test-1d05aec10f91
    
    Objective:   
       This code allows you to control the NEMA 17 stepper motor in different
