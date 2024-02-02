@@ -152,6 +152,19 @@ This code, developed by Jose Antonio, aims to evolve into a real irrigation proj
 [Project # 43](UNIR_SAMSUNG/navetech.unir.br/43_UNIR_EEPROM24LC256v2.ino) - **[EEPROM 24LC256- Integer Long](https://medium.com/jungletronics/eeprom-24lc256-reading-and-writing-arduino-sketch-bdfb6e5a3b13)** — Reading and Writing Arduino Sketch How to Save Integers and Longs to EEPROM — NaveTECH & UNIR Series — Episode # 11 - How to Use 24LC256, 256Kb I2C compatible 2-wire Serial EEPROM - Long Integers - It is a valuable resource in projects where non-volatile data storage is required, offering reliability, data persistence, and space efficiency - PROJECT EEPROM - January 29, 2024.
 
 
-[Project # 44](UNIR_SAMSUNG/navetech.unir.br/44_UNIR_28BYJ48_12VDC_test_code.ino.ino) - **[28BYJ-48 12 V Stepper Motor Test](https://medium.com/jungletronics/28byj-48-12-v-stepper-motor-test-fbaa972dfea5)** - Stepper Series — NaveTECH & UNIR Series — Episode # 12 - This code allows you to control the 28BYJ-48 stepper motor in different micro-stepping modes (full step, half step, quarter step, and sixteenth). the eighth and thirty-second step modes did not work, so they are commented out. - PROJECT STEPPER - January 31, 2024.
+[Project # 44](UNIR_SAMSUNG/navetech.unir.br/44_UNIR_28BYJ48_12VDC_test_code.ino.ino) - **[28BYJ-48 12 V Stepper Motor Test](https://medium.com/jungletronics/28byj-48-12-v-stepper-motor-test-fbaa972dfea5)** - Stepper Series — NaveTECH & UNIR Series — Episode # 12 - This code allows you to control the 28BYJ-48 stepper motor in different micro-stepping modes (full step, half step, quarter step, and sixteenth) - PROJECT STEPPER - February 1, 2024.
 
-[Project # 45](UNIR_SAMSUNG/navetech.unir.br/TODO)
+[Project # 45](UNIR_SAMSUNG/navetech.unir.br/45_UNIR_NEMA17_12VDC_test_code.ino) - **[NEMA 17 Stepper Motor Test](https://medium.com/jungletronics/nema-17-stepper-motor-test-1d05aec10f91)** - Stepper Series — NaveTECH & UNIR Series — Episode # 13] - Prepare your setup with a NEMA 17 stepper motor and a DRV8825 Driver - PROJECT STEPPER - February 2, 2024.
+
+[Project # 46](UNIR_SAMSUNG/navetech.unir.br/46_UNIR_NEMA17_12VDC_multi_test_code.ino.ino) - **[NEMA 17 Stepper Motor Test](https://medium.com/jungletronics/nema-17-stepper-motor-test-1d05aec10f91)** - Stepper Series — NaveTECH & UNIR Series — Episode # 13] - Test a NEMA 17 stepper motor and a DRV8825 Driver in all modes possible - PROJECT STEPPER - February 2, 2024.
+
+
+[Project # 47](UNIR_SAMSUNG/navetech.unir.br/TODO)
+
+
+[Project # 48](UNIR_SAMSUNG/navetech.unir.br/TODO)
+
+
+[Project # 49](UNIR_SAMSUNG/navetech.unir.br/TODO)
+
+[Project # 50](UNIR_SAMSUNG/navetech.unir.br/TODO)
