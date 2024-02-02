@@ -2,7 +2,7 @@
       44_UNIR_28BYJ48_12VDC_test_code.ino
       Link: https://medium.com/jungletronics/28byj-48-12-v-stepper-motor-test-fbaa972dfea5
    
-   Objective:   
+   Objective:      
       This code allows you to control the 28BYJ-48 stepper motor in different
       micro-stepping modes (full, half, quarter, eighth, and sixteenth steps).
       The thirty-second step mode did not work, so it is commented out.
