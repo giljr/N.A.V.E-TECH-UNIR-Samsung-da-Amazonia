@@ -159,7 +159,7 @@ This code, developed by Jose Antonio, aims to evolve into a real irrigation proj
 [Project # 46](UNIR_SAMSUNG/navetech.unir.br/46_UNIR_NEMA17_12VDC_multi_test_code.ino.ino) - **[NEMA 17 Stepper Motor Test](https://medium.com/jungletronics/nema-17-stepper-motor-test-1d05aec10f91)** - Stepper Series — NaveTECH & UNIR Series — Episode # 13] - Test a NEMA 17 stepper motor and a DRV8825 Driver in all modes possible - PROJECT STEPPER - February 2, 2024.
 
 
-[Project # 47](UNIR_SAMSUNG/navetech.unir.br/TODO)
+[Project # 47](UNIR_SAMSUNG/navetech.unir.br/47_UNIR_tls2561_Light_to_Digital_converter_v1.ino.ino) - **[TSL2561 Ambient Light Sensor](https://medium.com/jungletronics/tsl2561-ambient-light-sensor-5deea180b9e6)** - How much illumination does my workbench require? - This code demonstrates how to initialize and read data from the TSL2561 light sensor module over the I2C bus, providing insight into the ambient light conditions in terms of Full Spectrum, Infrared, and Visible light. — NaveTECH & UNIR Series — Episode # 14 - PROJECT LIGHT - February 3, 2024.
 
 
 [Project # 48](UNIR_SAMSUNG/navetech.unir.br/TODO)
