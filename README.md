@@ -167,5 +167,5 @@ This code, developed by Jose Antonio, aims to evolve into a real irrigation proj
 
 [Project # 49](UNIR_SAMSUNG/navetech.unir.br/49_UNIR_ssd1306_oled_128_64_v2.ino) - **[How to Make a Professional LCD Display](https://medium.com/jungletronics/how-to-make-a-professional-lcd-display-99d3287c4ebd)** - Hello world example for Universal 8bit Graphics Library, https://github.com/olikraus/u8glib/ — NaveTECH & UNIR Series — PROJECT LIGHT - February 11, 2024.
 
-[Project # 50](UNIR_SAMSUNG/navetech.unir.br/50_UNIR_Final_Project.ino.ino) - **[Prezi slides](https://prezi.com/view/6DYvXyKcW3amQfnC736i/)** - It aims to offer a compact, informative and
+[Project # 50](UNIR_SAMSUNG/navetech.unir.br/50_UNIR_Final_Project.ino.ino) - **[Weather Monitoring Solution (WMS) v 1.0 - Prezi slides](https://prezi.com/view/6DYvXyKcW3amQfnC736i/)** - It aims to offer a compact, informative and
  visually appealing weather monitoring - PROJECT IMPLEMENTED FOR FINAL PRESENTATION - April 26, 2024.
