@@ -162,9 +162,10 @@ This code, developed by Jose Antonio, aims to evolve into a real irrigation proj
 [Project # 47](UNIR_SAMSUNG/navetech.unir.br/47_UNIR_tls2561_Light_to_Digital_converter_v1.ino.ino) - **[TSL2561 Ambient Light Sensor](https://medium.com/jungletronics/tsl2561-ambient-light-sensor-5deea180b9e6)** - How much illumination does my workbench require? - This code demonstrates how to initialize and read data from the TSL2561 light sensor module over the I2C bus, providing insight into the ambient light conditions in terms of Full Spectrum, Infrared, and Visible light. — NaveTECH & UNIR Series — Episode # 14 - PROJECT LIGHT - February 3, 2024.
 
 
-[Project # 48](UNIR_SAMSUNG/navetech.unir.br/TODO)
+[Project # 48](UNIR_SAMSUNG/navetech.unir.br/48_UNIR_ssd1306_oled_128_64_v1.ino) - **[How to Make a Professional LCD Display](https://medium.com/jungletronics/how-to-make-a-professional-lcd-display-99d3287c4ebd)** - Hello world example for Universal 8bit Graphics Library, https://github.com/olikraus/u8glib/ — NaveTECH & UNIR Series — PROJECT LIGHT - February 11, 2024.
 
 
-[Project # 49](UNIR_SAMSUNG/navetech.unir.br/TODO)
+[Project # 49](UNIR_SAMSUNG/navetech.unir.br/49_UNIR_ssd1306_oled_128_64_v2.ino) - **[How to Make a Professional LCD Display](https://medium.com/jungletronics/how-to-make-a-professional-lcd-display-99d3287c4ebd)** - Hello world example for Universal 8bit Graphics Library, https://github.com/olikraus/u8glib/ — NaveTECH & UNIR Series — PROJECT LIGHT - February 11, 2024.
 
-[Project # 50](UNIR_SAMSUNG/navetech.unir.br/TODO)
+[Project # 50](UNIR_SAMSUNG/navetech.unir.br/50_UNIR_Final_Project.ino.ino) - **[Prezi slides](https://prezi.com/view/6DYvXyKcW3amQfnC736i/)** - It aims to offer a compact, informative and
+ visually appealing weather monitoring - PROJECT IMPLEMENTED FOR FINAL PRESENTATION - April 26, 2024.
