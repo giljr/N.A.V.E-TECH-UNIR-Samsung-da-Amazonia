@@ -31,6 +31,7 @@ Execution:
 ````                
 
 📰 [Trail Schedule](docs/Execucao_das_Trilhas___Roteiro__Versao_5__1322525210.pdf/)
+🥇 [Certification](https://drive.google.com/file/d/11tsdHKjU-t9eSfzXHQL_T8ZHOMU8PJAG/view)
 
 ## 🎓 Lessons Learned & 🛠 Tools Used 
 Here's a brief description:
